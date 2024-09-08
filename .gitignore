@@ -1,0 +1,33 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders (e.g., virtualenv, venv)
+venv/
+.env/
+*.env
+
+# Data files (commonly used in data science projects)
+*.csv
+*.xlsx
+*.json
+*.hdf5
+*.parquet
+
+# Log files
+*.log
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
