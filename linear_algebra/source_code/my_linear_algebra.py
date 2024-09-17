@@ -32,3 +32,67 @@ def deepcopy(A):
         for i in range(0, n):
             res.append(A[i])
         return res
+
+
+def v_add(u, v):
+    """
+    입력값 : 연산하고자하는 벡터 u, v
+    출력값 : 벡터 u,v의 연산 결과
+    """
+    n = len(u)
+    w = []
+    
+    for i in range(0, n):
+        val = u[i] + v[i]
+        w.append(val)
+        
+    return w
+
+def v_subtract(u, v):
+    n = len(u)
+    w = []
+    
+    for i in range(0, n):
+        val = u[i] - v[i]
+        w.append(val)
+    return w
+
+def scalar_v_mul(a, u):
+    """
+    벡터의 스칼라 곱
+    입력값 : 스칼라 a, 벡터 리스트 u
+    출력값 : 스칼라 a와 벡터 리스트 u의 곱 결과 w
+    """
+    n = len(u)
+    w = []
+    
+    for i in range(0, n):
+        val = a * u[i]
+        w.append(val)
+    
+    return w
+
+def v_mul(u, v):
+    """
+    벡터의 원소 연산
+    입력값 : 원소와 연산하고자 하는 벡터 리스트 u , v
+    출력값 : 벡터 u, v의 원소 곲 결과 w
+    """
+    n = len(u)
+    w = []
+    
+    for i in range(0, n):
+        val = u[i] * v[i]
+        w.append(val)
+        
+    return w
+
+def v_div(u, v):
+    n = len(u)
+    w = []
+    
+    for i in range(0, n):
+        val = u[i] / v[i]
+        w.append(val)
+        
+    return w
