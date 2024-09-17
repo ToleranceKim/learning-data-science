@@ -33,6 +33,7 @@ def deepcopy(A):
             res.append(A[i])
         return res
 
+# vector_calculations
 
 def v_add(u, v):
     """
@@ -96,3 +97,97 @@ def v_div(u, v):
         w.append(val)
         
     return w
+
+# matrix_calculations
+
+def add(A, B):
+    """
+    행렬의 덧셈
+    입력값 : 행렬의 덧셈을 수행할 행렬 A, B
+    출력값 : 행렬 A와 행렬 B의 덧셈 결과인 행렬 C
+    """
+    
+    n = len(A)
+    p = len(A[0])
+    
+    res = []
+    for i in range(0, n):
+        row = []
+        for j in range(0, p):
+            val = A[i][j] + B[i][j]
+            row.append(val)
+        res.append(row)
+    return res
+
+def subtract(A, b):
+    n = len(A)
+    p = len(A[0])
+    
+    res = []
+    for i in range(0, n):
+        row = []
+        for j in range(0, p):
+            val = A[i][j] - B[i][j]
+            row.append(val)
+        res.append(row)
+    return res
+
+def scalar_mul(b, A):
+    """
+    행렬의 스칼라 곱
+    입력값 : 스칼라 곱을 수행할 스칼라 b, 행렬 A
+    출력값 : 스칼라 b와 행렬 A의 스칼라 곱 결과인 행렬 C
+    """
+    
+    n = len(A)
+    p = len(A[0])
+    
+    res = []
+    for i in range(0, n):
+        row = []
+        for j in range(0, p):
+            val = b * A[i][j]
+            row.append(val)
+        res.append(row)
+    return res
+
+def ele_product(A, B):
+    """
+    행렬의 원소 곱
+    입력값 : 행렬의 원소 곱을 수행할 행렬 A, B
+    출력값 : 행렬 A와 행렬 B의 원소 곱 결과인 행렬 C
+    """
+    
+    n = len(A)
+    p = len(A[0])
+    
+    res = []
+    for i in range(0, n):
+        row = []
+        for j in range(0, p):
+            val = A[i][j] * B[i][j]
+            row.append(val)
+        res.append(row)
+    return res
+
+def matmul(A, B):
+    """
+    행렬의 행렬 곱
+    입력값 : 행렬 곱을 수행할 행렬 A, B
+    출력값 : 행렬 A와 행렬 B의 행렬 곱 결과인 행렬 res
+    """
+    
+    n = len(A)
+    p1 = len(A[0])
+    p2 = len(B[0])
+    
+    res = []
+    for i in range (0, n):
+        row = []
+        for j in range(0, p2):
+            val = 0
+            for k in range(0, p1):
+                val += A[i][k] * B[k][j]
+            row.append(val)
+        res.append(row)
+    return res
