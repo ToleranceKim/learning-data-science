@@ -191,3 +191,5 @@ def matmul(A, B):
             row.append(val)
         res.append(row)
     return res
+
+# matrix_properties
