@@ -193,3 +193,87 @@ def matmul(A, B):
     return res
 
 # matrix_properties
+
+def transpose(A):
+    """
+    행렬의 전치 행렬
+    입력값 : 전치 행렬을 구하고자 하는 행렬 A
+    출력값 : 행렬 A의 전치 행렬 At
+    """
+    n = len(A)
+    p = len(A[0])
+    
+    At = []
+    for i in range(0, p):
+        row = []
+        for j in range(0, n):
+            val = A[j][i]
+            row.append(val)
+        At.append(row)
+    return At
+
+def diag(A):
+    """
+    행렬의 대각 행렬
+    입력값 : 대각 행렬을 구하고자 하는 행렬 A
+    출력값 : 행렬 A의 대각 행렬 D
+    """
+    n = len(A)
+    D = []
+    for i in range(0, n):
+        row = []
+        for j in range(0, n):
+            if i == j:
+                row.append(A[i][j])
+            else:
+                row.append(0)
+        D.append(row)
+    return D
+
+def diag_ele(A):
+    """
+    대각 원소 구하기
+    입력값 : 대각 원소를 구하고자 하는 행렬 A
+    출력값 : 행렬 A의 대각 원소 리스트 d
+    """
+    n = len(A)
+    d = []
+    for i in range(0, n):
+        d.append(A[i][i])
+    return d
+
+def ele2diag(a):
+    """
+    대각 원소 -> 대각 행렬 변환
+    입력값 : 대각 원소 리스트 a
+    출력값 : 대각 원소 a를 이용해 생성한 nxn 대각 행렬 D
+    n : 대각 원소 리스트 a의 길이
+    """
+    n = len(a)
+    D = []
+    for i in range(0, n):
+        row = []
+        for j in range(0, n):
+            if i == j:
+                row.append(a[i])
+            else:
+                row.append(0)
+        D.append(row)
+    return D
+
+def identity(n):
+    """
+    단위 행렬 생성
+    입력값 : 단위 행렬의 크기 n
+    출력값 : nxn 단위 행렬 I
+    """
+    I = []
+    for i in range(0, n):
+        row = []
+        for j in range(0, n):
+            if i==j:
+                row.append(1)
+            else:
+                row.append(0)
+        I.append(row)
+    return I
