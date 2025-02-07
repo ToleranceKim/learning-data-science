@@ -1,0 +1,1001 @@
+AuctionID,Year,Artist,ArtworkTitle,Category,PriceUSD,EstimatedValueUSD,BuyerRegion,ResaleYear,ResalePriceUSD,CulturalSignificanceScore,FinancialReturn,AuctionHouse
+AID-1,2016,Georgia O'Keeffe,Artwork 1,Painting,528886,337299,South America,2015.0,,7,137.0,Sotheby's
+AID-2,2013,Pablo Picasso,Artwork 2,Photography,538884,759600,Asia,,,9,,Sotheby's
+AID-3,2022,Pablo Picasso,Artwork 3,Painting,239627,63500,Asia,,,8,,Sotheby's
+AID-4,2020,Claude Monet,Artwork 4,Drawing,636827,171647,Middle East,,,9,,Christie's
+AID-5,2017,Frida Kahlo,Artwork 5,Sculpture,547601,240527,Asia,2020.0,,8,,Sotheby's
+AID-6,2022,Georgia O'Keeffe,Artwork 6,Painting,904607,439477,Asia,2020.0,,2,,Christie's
+AID-7,2014,Vincent van Gogh,Artwork 7,Painting,726909,638947,Europe,,29782.0,7,,Phillips
+AID-8,2016,Georgia O'Keeffe,Artwork 8,Photography,119914,556004,North America,,,2,112.00000000000001,Christie's
+AID-9,2019,Vincent van Gogh,Artwork 9,Photography,552993,400452,Middle East,,,2,-7.000000000000001,Christie's
+AID-10,2012,Frida Kahlo,Artwork 10,Sculpture,727724,413064,Middle East,2020.0,,4,,Sotheby's
+AID-11,2016,Vincent van Gogh,Artwork 11,Painting,864877,6352,Middle East,,,1,,Phillips
+AID-12,2020,Claude Monet,Artwork 12,Painting,108892,137004,Europe,,,5,,Phillips
+AID-13,2020,Claude Monet,Artwork 13,Photography,739005,866881,Asia,,,6,52.0,Sotheby's
+AID-14,2017,Claude Monet,Artwork 14,Painting,269167,536844,North America,,,9,,Phillips
+AID-15,2014,Claude Monet,Artwork 15,Painting,648942,790261,South America,,1829728.0,10,,Phillips
+AID-16,2013,Georgia O'Keeffe,Artwork 16,Painting,195868,352980,Asia,2021.0,,8,23.0,Phillips
+AID-17,2017,Frida Kahlo,Artwork 17,Photography,85073,664858,Europe,,,2,,Sotheby's
+AID-18,2017,Vincent van Gogh,Artwork 18,Sculpture,883629,735478,Asia,,,1,144.0,Phillips
+AID-19,2012,Vincent van Gogh,Artwork 19,Drawing,593717,54098,Asia,2020.0,,2,,Christie's
+AID-20,2015,Claude Monet,Artwork 20,Sculpture,109195,378313,Europe,2020.0,741636.0,7,-26.0,Christie's
+AID-21,2014,Claude Monet,Artwork 21,Drawing,721987,668929,Middle East,,,4,132.0,Phillips
+AID-22,2011,Pablo Picasso,Artwork 22,Painting,38848,251199,Middle East,,,10,33.0,Sotheby's
+AID-23,2017,Frida Kahlo,Artwork 23,Sculpture,960308,130060,North America,,1790832.0,5,,Sotheby's
+AID-24,2021,Georgia O'Keeffe,Artwork 24,Drawing,937883,191954,North America,2023.0,277673.0,7,,Sotheby's
+AID-25,2015,Vincent van Gogh,Artwork 25,Photography,982168,729753,Middle East,,767582.0,3,-5.0,Phillips
+AID-26,2011,Pablo Picasso,Artwork 26,Photography,294910,134544,South America,2023.0,,10,,Phillips
+AID-27,2021,Pablo Picasso,Artwork 27,Sculpture,73099,528628,Asia,2017.0,574174.0,2,,Christie's
+AID-28,2014,Vincent van Gogh,Artwork 28,Sculpture,434276,703309,South America,,,7,,Sotheby's
+AID-29,2010,Georgia O'Keeffe,Artwork 29,Painting,74122,610590,Asia,,,5,15.0,Christie's
+AID-30,2021,Pablo Picasso,Artwork 30,Sculpture,676447,751028,Middle East,,1684308.0,1,,Christie's
+AID-31,2019,Pablo Picasso,Artwork 31,Painting,578156,471243,North America,,1436998.0,1,132.0,Sotheby's
+AID-32,2015,Frida Kahlo,Artwork 32,Painting,648407,528426,North America,,,9,,Phillips
+AID-33,2022,Georgia O'Keeffe,Artwork 33,Photography,421441,397574,South America,2016.0,,5,132.0,Phillips
+AID-34,2021,Pablo Picasso,Artwork 34,Photography,886718,647907,North America,2024.0,,1,,Christie's
+AID-35,2018,Georgia O'Keeffe,Artwork 35,Drawing,273787,472466,Middle East,,,7,56.00000000000001,Christie's
+AID-36,2010,Vincent van Gogh,Artwork 36,Photography,491275,875808,South America,2017.0,,9,28.999999999999996,Christie's
+AID-37,2020,Claude Monet,Artwork 37,Photography,303871,628219,Asia,,,1,66.0,Christie's
+AID-38,2020,Pablo Picasso,Artwork 38,Sculpture,933509,160951,North America,,,10,,Sotheby's
+AID-39,2019,Frida Kahlo,Artwork 39,Photography,114079,871964,Europe,,,4,,Christie's
+AID-40,2021,Vincent van Gogh,Artwork 40,Drawing,857129,846210,North America,2015.0,,3,74.0,Christie's
+AID-41,2021,Georgia O'Keeffe,Artwork 41,Sculpture,21029,566060,Asia,2023.0,,5,121.0,Phillips
+AID-42,2012,Vincent van Gogh,Artwork 42,Drawing,251353,62478,South America,2016.0,,7,,Phillips
+AID-43,2021,Pablo Picasso,Artwork 43,Photography,412442,461569,Asia,,,8,-12.0,Phillips
+AID-44,2016,Georgia O'Keeffe,Artwork 44,Drawing,199718,555050,Europe,,,2,,Sotheby's
+AID-45,2013,Claude Monet,Artwork 45,Sculpture,983107,148355,Middle East,,,7,103.0,Sotheby's
+AID-46,2018,Vincent van Gogh,Artwork 46,Painting,426947,723282,North America,,,1,14.000000000000002,Phillips
+AID-47,2012,Pablo Picasso,Artwork 47,Drawing,376602,698780,South America,2020.0,,7,,Phillips
+AID-48,2014,Frida Kahlo,Artwork 48,Drawing,901816,846000,Middle East,2020.0,,8,,Christie's
+AID-49,2012,Georgia O'Keeffe,Artwork 49,Sculpture,73926,875522,Asia,2015.0,,2,,Christie's
+AID-50,2016,Vincent van Gogh,Artwork 50,Sculpture,666357,810651,South America,,,9,22.0,Sotheby's
+AID-51,2014,Vincent van Gogh,Artwork 51,Drawing,322650,847601,Middle East,,,1,52.0,Sotheby's
+AID-52,2018,Claude Monet,Artwork 52,Photography,869661,497671,South America,,,6,,Christie's
+AID-53,2016,Claude Monet,Artwork 53,Drawing,448031,603253,Europe,,,1,,Phillips
+AID-54,2011,Frida Kahlo,Artwork 54,Sculpture,47092,181912,Europe,,938864.0,3,,Christie's
+AID-55,2013,Frida Kahlo,Artwork 55,Painting,329683,179767,North America,2016.0,777166.0,6,48.0,Sotheby's
+AID-56,2018,Pablo Picasso,Artwork 56,Painting,988581,240281,North America,2016.0,,3,,Sotheby's
+AID-57,2021,Pablo Picasso,Artwork 57,Photography,157889,88754,Europe,,,8,,Christie's
+AID-58,2011,Frida Kahlo,Artwork 58,Drawing,698221,606276,South America,,,5,14.000000000000002,Christie's
+AID-59,2019,Frida Kahlo,Artwork 59,Painting,542716,455558,Europe,,,2,,Christie's
+AID-60,2018,Georgia O'Keeffe,Artwork 60,Drawing,180006,511732,North America,,,4,-10.0,Sotheby's
+AID-61,2019,Claude Monet,Artwork 61,Sculpture,775915,154023,Europe,2020.0,,9,79.0,Phillips
+AID-62,2014,Pablo Picasso,Artwork 62,Painting,774727,660667,Europe,,,4,-40.0,Christie's
+AID-63,2011,Claude Monet,Artwork 63,Photography,146330,84388,South America,,511946.0,10,110.00000000000001,Sotheby's
+AID-64,2013,Claude Monet,Artwork 64,Sculpture,62775,881200,Middle East,,,10,,Sotheby's
+AID-65,2021,Frida Kahlo,Artwork 65,Photography,741940,825860,North America,2021.0,884609.0,8,,Sotheby's
+AID-66,2021,Georgia O'Keeffe,Artwork 66,Sculpture,272613,243779,South America,,,5,,Christie's
+AID-67,2016,Vincent van Gogh,Artwork 67,Painting,295998,882453,Europe,,1197030.0,10,,Christie's
+AID-68,2021,Georgia O'Keeffe,Artwork 68,Photography,666616,908850,Europe,,,1,-7.000000000000001,Phillips
+AID-69,2022,Georgia O'Keeffe,Artwork 69,Photography,784446,210846,Middle East,2018.0,449257.0,7,-15.0,Sotheby's
+AID-70,2017,Claude Monet,Artwork 70,Sculpture,81256,698335,North America,2023.0,339801.0,3,132.0,Christie's
+AID-71,2012,Georgia O'Keeffe,Artwork 71,Photography,956441,136212,North America,,,10,,Sotheby's
+AID-72,2010,Pablo Picasso,Artwork 72,Sculpture,366278,946346,Asia,2022.0,684932.0,8,,Sotheby's
+AID-73,2013,Claude Monet,Artwork 73,Sculpture,662011,816853,North America,2023.0,71868.0,3,,Phillips
+AID-74,2011,Pablo Picasso,Artwork 74,Sculpture,186360,792140,Middle East,2022.0,,1,-8.0,Christie's
+AID-75,2017,Vincent van Gogh,Artwork 75,Sculpture,351874,925134,Asia,2015.0,129392.0,5,,Christie's
+AID-76,2013,Claude Monet,Artwork 76,Painting,423267,416811,Asia,2015.0,790516.0,2,,Sotheby's
+AID-77,2011,Vincent van Gogh,Artwork 77,Sculpture,294530,604309,Europe,,,4,31.0,Sotheby's
+AID-78,2015,Claude Monet,Artwork 78,Drawing,997558,163380,Europe,2018.0,1871627.0,1,,Phillips
+AID-79,2015,Frida Kahlo,Artwork 79,Photography,247634,48789,North America,,275864.0,9,,Phillips
+AID-80,2019,Georgia O'Keeffe,Artwork 80,Drawing,938688,30086,Asia,2016.0,695328.0,6,,Phillips
+AID-81,2013,Frida Kahlo,Artwork 81,Painting,38787,283003,Europe,,61567.0,8,-31.0,Phillips
+AID-82,2015,Vincent van Gogh,Artwork 82,Drawing,550909,535972,Middle East,2018.0,,4,,Phillips
+AID-83,2022,Georgia O'Keeffe,Artwork 83,Photography,998068,95088,Europe,2020.0,,9,140.0,Phillips
+AID-84,2011,Claude Monet,Artwork 84,Drawing,607272,398423,Europe,,1779361.0,2,,Sotheby's
+AID-85,2019,Georgia O'Keeffe,Artwork 85,Painting,458008,574387,Asia,2020.0,,9,103.0,Phillips
+AID-86,2021,Pablo Picasso,Artwork 86,Sculpture,443469,594381,Asia,,,5,,Sotheby's
+AID-87,2011,Georgia O'Keeffe,Artwork 87,Drawing,825483,164761,South America,2021.0,,6,112.00000000000001,Sotheby's
+AID-88,2019,Pablo Picasso,Artwork 88,Painting,316955,839083,Middle East,,927999.0,3,,Christie's
+AID-89,2013,Georgia O'Keeffe,Artwork 89,Painting,35447,542181,Asia,,1091900.0,4,,Sotheby's
+AID-90,2017,Pablo Picasso,Artwork 90,Photography,133046,495024,North America,2022.0,61272.0,6,63.0,Sotheby's
+AID-91,2016,Vincent van Gogh,Artwork 91,Photography,744290,594706,Middle East,,,7,,Phillips
+AID-92,2021,Frida Kahlo,Artwork 92,Drawing,521494,129074,Middle East,2021.0,1810323.0,1,-4.0,Sotheby's
+AID-93,2018,Claude Monet,Artwork 93,Sculpture,690614,893497,Asia,,,7,,Phillips
+AID-94,2017,Georgia O'Keeffe,Artwork 94,Painting,875477,134351,Middle East,,,1,101.0,Phillips
+AID-95,2014,Frida Kahlo,Artwork 95,Drawing,646147,719371,Asia,,,5,,Phillips
+AID-96,2022,Claude Monet,Artwork 96,Painting,193490,42635,Europe,,,6,,Christie's
+AID-97,2011,Claude Monet,Artwork 97,Painting,412688,99071,South America,,983902.0,2,113.99999999999999,Phillips
+AID-98,2014,Pablo Picasso,Artwork 98,Sculpture,509409,469918,Europe,,,10,57.99999999999999,Sotheby's
+AID-99,2017,Vincent van Gogh,Artwork 99,Sculpture,532759,868950,Asia,,299014.0,9,,Phillips
+AID-100,2019,Vincent van Gogh,Artwork 100,Drawing,243404,372377,Asia,,,10,,Phillips
+AID-101,2018,Frida Kahlo,Artwork 101,Sculpture,649600,894083,Europe,2024.0,,6,,Phillips
+AID-102,2021,Vincent van Gogh,Artwork 102,Sculpture,521595,601093,North America,2024.0,,7,,Christie's
+AID-103,2021,Georgia O'Keeffe,Artwork 103,Drawing,756164,425280,North America,,546667.0,10,141.0,Sotheby's
+AID-104,2021,Vincent van Gogh,Artwork 104,Sculpture,668689,913245,North America,2018.0,,8,,Christie's
+AID-105,2022,Frida Kahlo,Artwork 105,Photography,170937,345207,Asia,,,10,-25.0,Sotheby's
+AID-106,2018,Vincent van Gogh,Artwork 106,Painting,51850,268598,Middle East,2016.0,990960.0,1,,Christie's
+AID-107,2022,Georgia O'Keeffe,Artwork 107,Painting,321364,287022,Asia,2020.0,,8,82.0,Sotheby's
+AID-108,2022,Pablo Picasso,Artwork 108,Painting,248306,186170,Middle East,2023.0,,4,,Christie's
+AID-109,2010,Frida Kahlo,Artwork 109,Painting,98808,197226,Europe,,,10,70.0,Phillips
+AID-110,2018,Pablo Picasso,Artwork 110,Drawing,506597,148063,South America,2019.0,,8,33.0,Christie's
+AID-111,2016,Pablo Picasso,Artwork 111,Painting,666757,596632,Middle East,,441978.0,6,,Christie's
+AID-112,2018,Pablo Picasso,Artwork 112,Painting,233981,895378,North America,2024.0,,9,,Phillips
+AID-113,2017,Claude Monet,Artwork 113,Painting,527220,564881,Asia,,,4,,Phillips
+AID-114,2010,Claude Monet,Artwork 114,Painting,695885,564592,Europe,2015.0,,2,,Sotheby's
+AID-115,2021,Pablo Picasso,Artwork 115,Photography,58072,427602,North America,2016.0,,2,,Sotheby's
+AID-116,2017,Frida Kahlo,Artwork 116,Painting,750466,714580,Europe,2017.0,,5,-11.0,Sotheby's
+AID-117,2017,Georgia O'Keeffe,Artwork 117,Photography,613108,117613,South America,,705139.0,10,,Christie's
+AID-118,2020,Georgia O'Keeffe,Artwork 118,Drawing,482746,728698,Asia,2023.0,,9,,Sotheby's
+AID-119,2012,Vincent van Gogh,Artwork 119,Sculpture,28284,491505,Asia,,,3,,Christie's
+AID-120,2010,Frida Kahlo,Artwork 120,Painting,983834,418299,South America,2015.0,25896.0,8,,Christie's
+AID-121,2017,Claude Monet,Artwork 121,Sculpture,88369,546642,Asia,,,4,36.0,Sotheby's
+AID-122,2012,Pablo Picasso,Artwork 122,Sculpture,816554,288334,Middle East,,,6,,Sotheby's
+AID-123,2012,Vincent van Gogh,Artwork 123,Drawing,921781,534430,Europe,,,10,-44.0,Christie's
+AID-124,2010,Georgia O'Keeffe,Artwork 124,Sculpture,861985,425614,North America,,,6,,Phillips
+AID-125,2020,Claude Monet,Artwork 125,Photography,742266,187043,South America,,1357731.0,3,-2.0,Phillips
+AID-126,2014,Claude Monet,Artwork 126,Sculpture,886220,832294,Middle East,,1496056.0,5,136.0,Christie's
+AID-127,2019,Pablo Picasso,Artwork 127,Sculpture,592100,712770,North America,,225705.0,3,,Sotheby's
+AID-128,2016,Georgia O'Keeffe,Artwork 128,Sculpture,275143,154575,North America,2018.0,1759190.0,1,,Christie's
+AID-129,2019,Frida Kahlo,Artwork 129,Painting,289580,129438,South America,2022.0,,7,,Christie's
+AID-130,2018,Claude Monet,Artwork 130,Painting,834395,576744,Middle East,,485859.0,4,74.0,Sotheby's
+AID-131,2021,Pablo Picasso,Artwork 131,Photography,662456,628455,North America,,468819.0,7,-13.0,Phillips
+AID-132,2016,Frida Kahlo,Artwork 132,Photography,528156,872467,North America,,,3,,Christie's
+AID-133,2018,Georgia O'Keeffe,Artwork 133,Painting,774097,798448,Middle East,,,5,,Phillips
+AID-134,2017,Claude Monet,Artwork 134,Photography,423495,268528,Asia,2016.0,,5,25.0,Phillips
+AID-135,2021,Frida Kahlo,Artwork 135,Painting,257164,197392,North America,2015.0,,2,,Sotheby's
+AID-136,2011,Frida Kahlo,Artwork 136,Drawing,900331,412288,Europe,,,10,-2.0,Christie's
+AID-137,2010,Frida Kahlo,Artwork 137,Sculpture,774605,106239,Middle East,,,2,0.0,Christie's
+AID-138,2016,Claude Monet,Artwork 138,Sculpture,293345,639719,North America,,,4,,Phillips
+AID-139,2016,Claude Monet,Artwork 139,Photography,155787,870450,South America,2020.0,1888625.0,4,-12.0,Phillips
+AID-140,2017,Vincent van Gogh,Artwork 140,Painting,165381,568798,Europe,2024.0,,4,,Sotheby's
+AID-141,2014,Georgia O'Keeffe,Artwork 141,Painting,675438,708293,North America,,,6,,Phillips
+AID-142,2012,Pablo Picasso,Artwork 142,Photography,454830,812258,Europe,,,2,-34.0,Sotheby's
+AID-143,2021,Frida Kahlo,Artwork 143,Painting,534393,334170,Europe,2021.0,496121.0,6,100.0,Christie's
+AID-144,2017,Vincent van Gogh,Artwork 144,Drawing,909098,125668,Asia,2023.0,,7,,Sotheby's
+AID-145,2015,Pablo Picasso,Artwork 145,Sculpture,361992,770988,Europe,,975398.0,10,,Phillips
+AID-146,2020,Vincent van Gogh,Artwork 146,Photography,794271,422734,Asia,,802879.0,3,,Christie's
+AID-147,2012,Claude Monet,Artwork 147,Photography,73920,552333,Middle East,,,8,,Sotheby's
+AID-148,2010,Frida Kahlo,Artwork 148,Painting,835051,185948,Asia,,392650.0,2,,Christie's
+AID-149,2012,Pablo Picasso,Artwork 149,Photography,572109,489662,South America,,,8,,Sotheby's
+AID-150,2014,Pablo Picasso,Artwork 150,Drawing,655024,618390,North America,,,5,147.0,Phillips
+AID-151,2012,Pablo Picasso,Artwork 151,Painting,935997,318063,Middle East,,,2,-20.0,Phillips
+AID-152,2010,Pablo Picasso,Artwork 152,Painting,546357,627729,Middle East,,,7,,Christie's
+AID-153,2014,Pablo Picasso,Artwork 153,Painting,510659,162175,South America,2019.0,,2,67.0,Christie's
+AID-154,2019,Vincent van Gogh,Artwork 154,Painting,12531,253877,Asia,,873787.0,6,,Christie's
+AID-155,2016,Frida Kahlo,Artwork 155,Drawing,435267,140917,North America,,,10,,Sotheby's
+AID-156,2016,Claude Monet,Artwork 156,Painting,668096,221770,Asia,,1833935.0,3,,Phillips
+AID-157,2020,Claude Monet,Artwork 157,Photography,668070,646613,Europe,,1061665.0,9,40.0,Christie's
+AID-158,2018,Claude Monet,Artwork 158,Drawing,72155,547625,Asia,2024.0,1365898.0,3,,Christie's
+AID-159,2019,Claude Monet,Artwork 159,Sculpture,936479,681673,Middle East,,,3,,Christie's
+AID-160,2019,Vincent van Gogh,Artwork 160,Sculpture,591712,948447,North America,,1427191.0,5,,Sotheby's
+AID-161,2021,Georgia O'Keeffe,Artwork 161,Photography,312747,344093,Asia,2017.0,,7,79.0,Christie's
+AID-162,2022,Frida Kahlo,Artwork 162,Photography,945756,790708,North America,,,8,137.0,Christie's
+AID-163,2012,Pablo Picasso,Artwork 163,Drawing,479013,317295,North America,2022.0,99242.0,7,96.0,Sotheby's
+AID-164,2016,Georgia O'Keeffe,Artwork 164,Sculpture,137503,939115,Europe,,,9,-9.0,Sotheby's
+AID-165,2010,Claude Monet,Artwork 165,Sculpture,734963,671304,Europe,,594326.0,5,,Christie's
+AID-166,2013,Georgia O'Keeffe,Artwork 166,Sculpture,697841,843319,Middle East,,,10,,Christie's
+AID-167,2022,Frida Kahlo,Artwork 167,Sculpture,884005,609730,South America,,743375.0,3,,Sotheby's
+AID-168,2013,Pablo Picasso,Artwork 168,Sculpture,669917,53847,North America,2020.0,,6,,Phillips
+AID-169,2014,Pablo Picasso,Artwork 169,Painting,997475,62653,South America,2020.0,,5,,Sotheby's
+AID-170,2016,Frida Kahlo,Artwork 170,Photography,370446,745432,Middle East,,,4,,Phillips
+AID-171,2016,Frida Kahlo,Artwork 171,Painting,660522,781949,North America,,1772690.0,2,111.00000000000001,Christie's
+AID-172,2022,Claude Monet,Artwork 172,Sculpture,957246,322766,North America,2020.0,1384736.0,7,130.0,Christie's
+AID-173,2020,Pablo Picasso,Artwork 173,Drawing,24675,293954,South America,2023.0,,5,,Phillips
+AID-174,2022,Georgia O'Keeffe,Artwork 174,Drawing,78997,81842,Asia,,,4,,Sotheby's
+AID-175,2013,Vincent van Gogh,Artwork 175,Sculpture,153087,912657,Europe,,,8,,Christie's
+AID-176,2022,Vincent van Gogh,Artwork 176,Sculpture,972561,276647,Asia,,,9,,Phillips
+AID-177,2016,Frida Kahlo,Artwork 177,Drawing,955095,88761,South America,2021.0,,9,,Sotheby's
+AID-178,2020,Claude Monet,Artwork 178,Painting,491799,434192,Europe,,,3,70.0,Phillips
+AID-179,2012,Vincent van Gogh,Artwork 179,Painting,524349,916871,Asia,,1869062.0,3,50.0,Sotheby's
+AID-180,2015,Pablo Picasso,Artwork 180,Sculpture,760678,802022,Europe,2018.0,,5,-13.0,Sotheby's
+AID-181,2021,Frida Kahlo,Artwork 181,Painting,145905,520637,North America,,,5,36.0,Sotheby's
+AID-182,2011,Georgia O'Keeffe,Artwork 182,Drawing,275040,670246,Asia,,,10,,Sotheby's
+AID-183,2019,Frida Kahlo,Artwork 183,Painting,431188,934370,Europe,,406456.0,2,51.0,Phillips
+AID-184,2022,Georgia O'Keeffe,Artwork 184,Sculpture,316877,332768,Europe,,,1,65.0,Phillips
+AID-185,2018,Frida Kahlo,Artwork 185,Drawing,780723,692152,Europe,,1673938.0,8,,Phillips
+AID-186,2014,Frida Kahlo,Artwork 186,Painting,571088,406980,Asia,,1059458.0,3,,Phillips
+AID-187,2015,Frida Kahlo,Artwork 187,Photography,101044,785198,Middle East,,,1,,Phillips
+AID-188,2021,Georgia O'Keeffe,Artwork 188,Drawing,272491,124356,Asia,,1184441.0,1,103.0,Sotheby's
+AID-189,2021,Georgia O'Keeffe,Artwork 189,Drawing,719423,221228,South America,2020.0,1482617.0,2,,Christie's
+AID-190,2021,Frida Kahlo,Artwork 190,Photography,494066,46727,Asia,2019.0,,6,,Christie's
+AID-191,2021,Vincent van Gogh,Artwork 191,Photography,663003,344615,Europe,,,6,,Phillips
+AID-192,2013,Claude Monet,Artwork 192,Drawing,307929,536356,North America,,,3,81.0,Phillips
+AID-193,2020,Claude Monet,Artwork 193,Photography,810113,645211,Asia,,1389339.0,4,,Christie's
+AID-194,2019,Claude Monet,Artwork 194,Sculpture,972530,404511,Asia,,,2,-33.0,Sotheby's
+AID-195,2016,Georgia O'Keeffe,Artwork 195,Sculpture,371008,438376,Europe,,,2,135.0,Phillips
+AID-196,2021,Georgia O'Keeffe,Artwork 196,Sculpture,938396,15390,North America,2016.0,790594.0,7,,Sotheby's
+AID-197,2018,Vincent van Gogh,Artwork 197,Drawing,838731,635040,North America,,,1,21.0,Christie's
+AID-198,2016,Claude Monet,Artwork 198,Photography,22073,941635,South America,,1229211.0,7,,Christie's
+AID-199,2010,Claude Monet,Artwork 199,Photography,893736,360898,Asia,,,1,,Phillips
+AID-200,2010,Frida Kahlo,Artwork 200,Painting,559970,342113,North America,2017.0,,6,-3.0,Sotheby's
+AID-201,2018,Georgia O'Keeffe,Artwork 201,Painting,758158,674398,North America,,1168452.0,3,,Phillips
+AID-202,2020,Claude Monet,Artwork 202,Photography,757254,753078,Middle East,2016.0,,8,-10.0,Christie's
+AID-203,2018,Vincent van Gogh,Artwork 203,Photography,915734,343208,Middle East,,,6,,Sotheby's
+AID-204,2013,Vincent van Gogh,Artwork 204,Photography,412505,25281,North America,2022.0,33331.0,2,,Phillips
+AID-205,2022,Claude Monet,Artwork 205,Drawing,120359,58189,South America,2022.0,915675.0,8,-37.0,Phillips
+AID-206,2018,Georgia O'Keeffe,Artwork 206,Photography,930431,266093,North America,,,5,-1.0,Phillips
+AID-207,2012,Vincent van Gogh,Artwork 207,Painting,970834,314655,Europe,,,8,,Christie's
+AID-208,2016,Frida Kahlo,Artwork 208,Drawing,71707,650403,Asia,,,8,,Phillips
+AID-209,2015,Vincent van Gogh,Artwork 209,Photography,256351,536893,South America,,,6,,Sotheby's
+AID-210,2017,Pablo Picasso,Artwork 210,Painting,475670,366462,Europe,2016.0,1657069.0,2,,Phillips
+AID-211,2020,Pablo Picasso,Artwork 211,Drawing,243511,398597,South America,2020.0,,8,,Christie's
+AID-212,2018,Georgia O'Keeffe,Artwork 212,Photography,240718,810242,Europe,2016.0,,6,53.0,Phillips
+AID-213,2014,Claude Monet,Artwork 213,Photography,594716,253415,Asia,2020.0,,6,,Christie's
+AID-214,2010,Georgia O'Keeffe,Artwork 214,Photography,55601,683682,Asia,,1367221.0,8,,Christie's
+AID-215,2012,Georgia O'Keeffe,Artwork 215,Drawing,999969,45869,Middle East,,,1,89.0,Sotheby's
+AID-216,2019,Georgia O'Keeffe,Artwork 216,Painting,400755,561243,Europe,2018.0,,2,,Sotheby's
+AID-217,2021,Georgia O'Keeffe,Artwork 217,Painting,500479,589676,Middle East,,704089.0,9,,Phillips
+AID-218,2017,Frida Kahlo,Artwork 218,Sculpture,640775,769612,Europe,2016.0,,8,56.99999999999999,Christie's
+AID-219,2020,Frida Kahlo,Artwork 219,Photography,683029,14207,Middle East,,355744.0,7,,Christie's
+AID-220,2015,Vincent van Gogh,Artwork 220,Sculpture,469184,222401,Asia,,,7,,Sotheby's
+AID-221,2017,Pablo Picasso,Artwork 221,Sculpture,418860,163292,South America,2024.0,1686850.0,5,,Sotheby's
+AID-222,2018,Georgia O'Keeffe,Artwork 222,Painting,416961,481266,Middle East,,1270231.0,2,6.0,Phillips
+AID-223,2013,Vincent van Gogh,Artwork 223,Drawing,256924,500762,Europe,2024.0,1730389.0,6,139.0,Christie's
+AID-224,2010,Pablo Picasso,Artwork 224,Drawing,788441,209157,Europe,2024.0,,10,42.0,Sotheby's
+AID-225,2010,Claude Monet,Artwork 225,Painting,819660,26031,Asia,2019.0,437991.0,3,,Phillips
+AID-226,2019,Frida Kahlo,Artwork 226,Drawing,528394,467937,Europe,2016.0,,4,47.0,Christie's
+AID-227,2013,Pablo Picasso,Artwork 227,Sculpture,254430,871239,North America,,,10,,Christie's
+AID-228,2021,Claude Monet,Artwork 228,Photography,432737,599600,South America,2021.0,,2,,Sotheby's
+AID-229,2016,Pablo Picasso,Artwork 229,Painting,127788,588054,Middle East,,,2,,Phillips
+AID-230,2011,Frida Kahlo,Artwork 230,Photography,626527,147521,South America,,,8,,Sotheby's
+AID-231,2012,Frida Kahlo,Artwork 231,Drawing,556216,355977,Asia,2015.0,132989.0,8,139.0,Phillips
+AID-232,2010,Vincent van Gogh,Artwork 232,Photography,285466,191771,Middle East,,,10,105.0,Christie's
+AID-233,2014,Georgia O'Keeffe,Artwork 233,Drawing,455930,241199,Middle East,,974329.0,6,137.0,Phillips
+AID-234,2010,Pablo Picasso,Artwork 234,Drawing,355040,765019,North America,,,5,,Phillips
+AID-235,2017,Pablo Picasso,Artwork 235,Sculpture,67292,764129,Asia,,1419761.0,8,,Phillips
+AID-236,2010,Claude Monet,Artwork 236,Drawing,558343,639329,Europe,2021.0,,4,39.0,Phillips
+AID-237,2020,Frida Kahlo,Artwork 237,Sculpture,310035,644473,North America,,,4,,Phillips
+AID-238,2010,Pablo Picasso,Artwork 238,Sculpture,611200,181164,North America,2023.0,1408558.0,5,,Sotheby's
+AID-239,2011,Frida Kahlo,Artwork 239,Sculpture,666948,460887,South America,2017.0,1727479.0,1,142.0,Phillips
+AID-240,2011,Pablo Picasso,Artwork 240,Painting,357680,538638,South America,2020.0,,1,,Phillips
+AID-241,2021,Vincent van Gogh,Artwork 241,Painting,273448,755518,South America,,1409712.0,2,114.99999999999999,Christie's
+AID-242,2015,Georgia O'Keeffe,Artwork 242,Drawing,536633,891291,North America,2019.0,67939.0,8,,Phillips
+AID-243,2016,Pablo Picasso,Artwork 243,Sculpture,165372,517313,Europe,,,7,,Christie's
+AID-244,2014,Frida Kahlo,Artwork 244,Painting,946763,789858,Middle East,2020.0,,10,66.0,Sotheby's
+AID-245,2010,Vincent van Gogh,Artwork 245,Sculpture,96006,72487,South America,,,9,,Sotheby's
+AID-246,2010,Pablo Picasso,Artwork 246,Photography,937856,152694,Europe,2022.0,454503.0,5,,Phillips
+AID-247,2012,Claude Monet,Artwork 247,Photography,134350,127853,Asia,2024.0,,2,,Sotheby's
+AID-248,2011,Georgia O'Keeffe,Artwork 248,Photography,693725,319261,South America,,,7,,Phillips
+AID-249,2014,Pablo Picasso,Artwork 249,Drawing,810878,239062,Middle East,,1869926.0,8,,Sotheby's
+AID-250,2021,Vincent van Gogh,Artwork 250,Sculpture,793768,455610,Asia,2019.0,,7,122.0,Phillips
+AID-251,2019,Claude Monet,Artwork 251,Photography,853464,237077,Asia,,,7,,Phillips
+AID-252,2015,Vincent van Gogh,Artwork 252,Painting,211487,891516,Middle East,2021.0,,5,-2.0,Christie's
+AID-253,2016,Vincent van Gogh,Artwork 253,Photography,102852,27782,South America,,,2,,Christie's
+AID-254,2013,Claude Monet,Artwork 254,Photography,497092,513492,North America,,,6,,Christie's
+AID-255,2016,Vincent van Gogh,Artwork 255,Photography,143593,818886,Middle East,2024.0,,4,100.0,Christie's
+AID-256,2020,Claude Monet,Artwork 256,Drawing,732067,858336,Middle East,2016.0,1725090.0,10,45.0,Phillips
+AID-257,2017,Pablo Picasso,Artwork 257,Painting,683841,658224,Middle East,2021.0,,2,,Sotheby's
+AID-258,2020,Claude Monet,Artwork 258,Sculpture,285618,412808,Asia,,1264329.0,9,,Phillips
+AID-259,2010,Claude Monet,Artwork 259,Painting,182832,157245,Europe,2016.0,,7,50.0,Christie's
+AID-260,2015,Georgia O'Keeffe,Artwork 260,Sculpture,847150,126258,North America,,733776.0,6,32.0,Christie's
+AID-261,2017,Claude Monet,Artwork 261,Drawing,311773,639956,South America,2015.0,829745.0,5,,Sotheby's
+AID-262,2014,Claude Monet,Artwork 262,Drawing,50232,458418,South America,2017.0,1224343.0,3,,Christie's
+AID-263,2013,Pablo Picasso,Artwork 263,Drawing,353688,486616,Europe,,1941375.0,10,134.0,Phillips
+AID-264,2011,Georgia O'Keeffe,Artwork 264,Drawing,465385,390328,Middle East,,,10,,Phillips
+AID-265,2015,Frida Kahlo,Artwork 265,Sculpture,788301,510581,North America,,,4,50.0,Phillips
+AID-266,2015,Pablo Picasso,Artwork 266,Photography,317813,427966,South America,2019.0,69164.0,3,,Phillips
+AID-267,2020,Pablo Picasso,Artwork 267,Sculpture,214093,282710,South America,,733559.0,8,,Phillips
+AID-268,2010,Frida Kahlo,Artwork 268,Painting,336328,666550,Middle East,2017.0,,3,,Sotheby's
+AID-269,2018,Claude Monet,Artwork 269,Drawing,708305,566621,Europe,,,7,,Phillips
+AID-270,2021,Vincent van Gogh,Artwork 270,Drawing,18140,388073,North America,2015.0,1741530.0,7,112.99999999999999,Christie's
+AID-271,2020,Georgia O'Keeffe,Artwork 271,Painting,393612,740265,Europe,2018.0,,7,,Christie's
+AID-272,2015,Vincent van Gogh,Artwork 272,Sculpture,612745,617859,Europe,,,7,103.0,Christie's
+AID-273,2022,Frida Kahlo,Artwork 273,Photography,543645,124263,North America,,,2,,Christie's
+AID-274,2012,Pablo Picasso,Artwork 274,Photography,528375,923093,North America,,,10,,Sotheby's
+AID-275,2013,Pablo Picasso,Artwork 275,Painting,116672,553523,South America,2015.0,212630.0,3,-23.0,Christie's
+AID-276,2021,Georgia O'Keeffe,Artwork 276,Photography,335817,4159,South America,2021.0,,10,,Sotheby's
+AID-277,2020,Pablo Picasso,Artwork 277,Sculpture,650961,671505,North America,,,9,137.0,Christie's
+AID-278,2013,Pablo Picasso,Artwork 278,Sculpture,594921,166993,Asia,2018.0,776887.0,3,1.0,Sotheby's
+AID-279,2012,Georgia O'Keeffe,Artwork 279,Painting,737303,371003,South America,,,2,,Sotheby's
+AID-280,2019,Georgia O'Keeffe,Artwork 280,Sculpture,625399,151309,Asia,,,9,109.00000000000001,Sotheby's
+AID-281,2012,Frida Kahlo,Artwork 281,Drawing,869690,111507,North America,2023.0,1002652.0,10,,Christie's
+AID-282,2012,Pablo Picasso,Artwork 282,Painting,411140,929748,South America,,,9,3.0,Sotheby's
+AID-283,2013,Pablo Picasso,Artwork 283,Sculpture,74286,18743,Europe,,,4,,Phillips
+AID-284,2016,Frida Kahlo,Artwork 284,Painting,98269,756462,North America,,,9,72.0,Phillips
+AID-285,2013,Claude Monet,Artwork 285,Photography,263635,50101,Middle East,,531393.0,3,,Christie's
+AID-286,2018,Claude Monet,Artwork 286,Sculpture,79071,246717,Asia,,,7,,Phillips
+AID-287,2010,Claude Monet,Artwork 287,Drawing,455542,649822,North America,,,7,,Phillips
+AID-288,2017,Frida Kahlo,Artwork 288,Sculpture,226095,350371,North America,2015.0,,8,,Phillips
+AID-289,2016,Pablo Picasso,Artwork 289,Painting,518317,234604,South America,,,10,,Christie's
+AID-290,2011,Frida Kahlo,Artwork 290,Painting,35651,191450,South America,,1947135.0,4,-24.0,Christie's
+AID-291,2017,Frida Kahlo,Artwork 291,Sculpture,75202,861558,South America,,1905109.0,3,129.0,Phillips
+AID-292,2010,Claude Monet,Artwork 292,Drawing,53777,846503,Middle East,,,3,,Christie's
+AID-293,2020,Vincent van Gogh,Artwork 293,Drawing,153066,730481,South America,2016.0,1775401.0,5,,Sotheby's
+AID-294,2021,Pablo Picasso,Artwork 294,Drawing,858695,340907,North America,2024.0,,1,139.0,Phillips
+AID-295,2018,Claude Monet,Artwork 295,Painting,195706,491030,South America,,,10,,Christie's
+AID-296,2018,Vincent van Gogh,Artwork 296,Sculpture,629446,763710,Europe,2022.0,,3,38.0,Christie's
+AID-297,2011,Vincent van Gogh,Artwork 297,Photography,802232,409453,South America,,1927936.0,6,59.0,Phillips
+AID-298,2016,Georgia O'Keeffe,Artwork 298,Painting,829255,675009,Middle East,,,3,45.0,Christie's
+AID-299,2019,Pablo Picasso,Artwork 299,Drawing,768935,172785,Europe,,1880458.0,5,,Phillips
+AID-300,2012,Vincent van Gogh,Artwork 300,Sculpture,331022,208535,North America,,88012.0,9,,Christie's
+AID-301,2016,Claude Monet,Artwork 301,Drawing,285852,704769,North America,,,2,,Sotheby's
+AID-302,2021,Georgia O'Keeffe,Artwork 302,Photography,673179,183838,Asia,2015.0,,2,,Phillips
+AID-303,2019,Pablo Picasso,Artwork 303,Drawing,735265,574442,Europe,,,6,,Sotheby's
+AID-304,2018,Frida Kahlo,Artwork 304,Drawing,593158,273160,Asia,2022.0,116379.0,6,,Phillips
+AID-305,2013,Claude Monet,Artwork 305,Photography,538571,476779,Europe,,231439.0,8,56.00000000000001,Christie's
+AID-306,2021,Vincent van Gogh,Artwork 306,Sculpture,690933,445904,Europe,,,2,-41.0,Sotheby's
+AID-307,2010,Vincent van Gogh,Artwork 307,Painting,870139,880110,Middle East,2017.0,1200411.0,9,,Christie's
+AID-308,2011,Claude Monet,Artwork 308,Sculpture,429149,902488,Asia,,,2,,Phillips
+AID-309,2010,Vincent van Gogh,Artwork 309,Photography,535062,582526,Middle East,,,1,112.00000000000001,Phillips
+AID-310,2021,Georgia O'Keeffe,Artwork 310,Drawing,208127,324752,Europe,2017.0,,10,,Phillips
+AID-311,2014,Pablo Picasso,Artwork 311,Sculpture,147055,617369,North America,2022.0,1741041.0,2,,Phillips
+AID-312,2014,Georgia O'Keeffe,Artwork 312,Painting,625756,251644,Europe,2019.0,,7,131.0,Phillips
+AID-313,2020,Vincent van Gogh,Artwork 313,Photography,887766,841393,Middle East,2016.0,,8,60.0,Sotheby's
+AID-314,2016,Frida Kahlo,Artwork 314,Sculpture,809565,203775,Asia,2016.0,,5,-41.0,Phillips
+AID-315,2018,Pablo Picasso,Artwork 315,Painting,937443,817349,Asia,2023.0,,6,,Christie's
+AID-316,2018,Pablo Picasso,Artwork 316,Photography,530069,944240,Middle East,,838457.0,1,,Sotheby's
+AID-317,2012,Claude Monet,Artwork 317,Painting,119586,818422,Asia,,,6,-12.0,Christie's
+AID-318,2012,Claude Monet,Artwork 318,Photography,454916,66551,South America,,,8,,Phillips
+AID-319,2012,Frida Kahlo,Artwork 319,Drawing,294768,738983,North America,,123768.0,3,111.00000000000001,Christie's
+AID-320,2013,Pablo Picasso,Artwork 320,Sculpture,536111,681800,North America,2016.0,,1,-12.0,Sotheby's
+AID-321,2017,Frida Kahlo,Artwork 321,Painting,547777,170277,North America,2015.0,,4,47.0,Sotheby's
+AID-322,2015,Claude Monet,Artwork 322,Photography,176033,84811,Asia,,639112.0,1,14.000000000000002,Sotheby's
+AID-323,2017,Claude Monet,Artwork 323,Painting,517880,783128,Asia,,1077406.0,8,,Christie's
+AID-324,2010,Pablo Picasso,Artwork 324,Painting,296262,845535,Europe,2018.0,79202.0,5,,Sotheby's
+AID-325,2017,Georgia O'Keeffe,Artwork 325,Sculpture,105417,468028,Europe,,1569049.0,1,36.0,Christie's
+AID-326,2013,Vincent van Gogh,Artwork 326,Drawing,86816,372266,North America,2016.0,167699.0,8,,Phillips
+AID-327,2020,Claude Monet,Artwork 327,Painting,682623,238104,South America,,,9,-31.0,Phillips
+AID-328,2010,Claude Monet,Artwork 328,Photography,280709,547296,Europe,,1874483.0,10,,Christie's
+AID-329,2017,Georgia O'Keeffe,Artwork 329,Photography,680714,206346,Europe,,,2,,Sotheby's
+AID-330,2013,Georgia O'Keeffe,Artwork 330,Drawing,179023,560690,Asia,,363699.0,9,,Christie's
+AID-331,2015,Frida Kahlo,Artwork 331,Photography,882611,188456,South America,2020.0,,8,-22.0,Christie's
+AID-332,2017,Frida Kahlo,Artwork 332,Drawing,552936,788282,North America,2022.0,,7,,Christie's
+AID-333,2013,Vincent van Gogh,Artwork 333,Photography,448945,403009,Europe,2016.0,,3,51.0,Phillips
+AID-334,2012,Vincent van Gogh,Artwork 334,Sculpture,46971,500043,South America,,,2,,Christie's
+AID-335,2018,Pablo Picasso,Artwork 335,Painting,23658,140643,South America,,,7,140.0,Phillips
+AID-336,2012,Frida Kahlo,Artwork 336,Sculpture,26253,494083,North America,2018.0,,5,,Christie's
+AID-337,2018,Claude Monet,Artwork 337,Painting,462382,937713,South America,2019.0,1224413.0,6,,Phillips
+AID-338,2022,Frida Kahlo,Artwork 338,Painting,184635,117550,South America,,1303736.0,4,-28.999999999999996,Christie's
+AID-339,2011,Claude Monet,Artwork 339,Painting,162462,488146,South America,,1542337.0,2,,Christie's
+AID-340,2011,Georgia O'Keeffe,Artwork 340,Sculpture,355808,95218,Europe,2017.0,,9,146.0,Sotheby's
+AID-341,2011,Frida Kahlo,Artwork 341,Painting,711938,137296,North America,,1524059.0,3,47.0,Sotheby's
+AID-342,2015,Georgia O'Keeffe,Artwork 342,Sculpture,215097,503909,South America,,789105.0,7,78.0,Christie's
+AID-343,2012,Vincent van Gogh,Artwork 343,Drawing,633138,522767,South America,,,8,36.0,Christie's
+AID-344,2022,Vincent van Gogh,Artwork 344,Photography,955162,183767,Europe,,1320425.0,2,128.0,Christie's
+AID-345,2018,Pablo Picasso,Artwork 345,Photography,667212,911211,North America,2021.0,1435658.0,6,133.0,Christie's
+AID-346,2013,Frida Kahlo,Artwork 346,Painting,525498,395858,Asia,2023.0,1296050.0,8,,Sotheby's
+AID-347,2010,Georgia O'Keeffe,Artwork 347,Sculpture,231058,769348,Europe,,,7,108.0,Phillips
+AID-348,2013,Claude Monet,Artwork 348,Photography,662911,244016,North America,,,3,143.0,Christie's
+AID-349,2010,Vincent van Gogh,Artwork 349,Sculpture,863379,36441,South America,,343245.0,1,,Sotheby's
+AID-350,2014,Vincent van Gogh,Artwork 350,Sculpture,590289,242038,North America,,,6,23.0,Christie's
+AID-351,2013,Claude Monet,Artwork 351,Painting,185231,698489,North America,,,8,148.0,Christie's
+AID-352,2017,Georgia O'Keeffe,Artwork 352,Photography,127775,759612,North America,2015.0,,6,81.0,Phillips
+AID-353,2017,Georgia O'Keeffe,Artwork 353,Painting,974211,852800,Asia,,,5,,Christie's
+AID-354,2016,Frida Kahlo,Artwork 354,Painting,562531,620410,North America,,,8,,Christie's
+AID-355,2012,Frida Kahlo,Artwork 355,Photography,682160,48760,Asia,,1358055.0,2,56.00000000000001,Phillips
+AID-356,2010,Pablo Picasso,Artwork 356,Photography,867371,289622,South America,,143501.0,1,,Phillips
+AID-357,2010,Vincent van Gogh,Artwork 357,Drawing,324972,918313,Asia,,379566.0,1,,Phillips
+AID-358,2021,Frida Kahlo,Artwork 358,Drawing,266716,862286,South America,,,4,-11.0,Phillips
+AID-359,2020,Georgia O'Keeffe,Artwork 359,Sculpture,405455,884662,South America,2024.0,1424954.0,6,98.0,Sotheby's
+AID-360,2012,Claude Monet,Artwork 360,Photography,273854,351860,Asia,,,9,65.0,Sotheby's
+AID-361,2015,Georgia O'Keeffe,Artwork 361,Drawing,419600,671540,Europe,,,1,122.0,Sotheby's
+AID-362,2016,Vincent van Gogh,Artwork 362,Sculpture,943542,102538,Middle East,2021.0,,1,,Christie's
+AID-363,2015,Georgia O'Keeffe,Artwork 363,Sculpture,176918,543660,North America,2024.0,,5,,Phillips
+AID-364,2015,Pablo Picasso,Artwork 364,Sculpture,224055,820228,Middle East,,,10,-3.0,Phillips
+AID-365,2015,Vincent van Gogh,Artwork 365,Drawing,990325,515511,North America,2020.0,,5,4.0,Sotheby's
+AID-366,2022,Claude Monet,Artwork 366,Photography,305135,225035,North America,,,5,,Christie's
+AID-367,2012,Pablo Picasso,Artwork 367,Painting,739417,889258,South America,,,10,,Christie's
+AID-368,2015,Vincent van Gogh,Artwork 368,Sculpture,405187,386736,North America,,1717427.0,6,,Christie's
+AID-369,2017,Claude Monet,Artwork 369,Drawing,427355,359779,North America,2016.0,,8,89.0,Sotheby's
+AID-370,2020,Pablo Picasso,Artwork 370,Drawing,876877,639310,Asia,2017.0,,3,,Christie's
+AID-371,2020,Pablo Picasso,Artwork 371,Painting,213139,582328,Middle East,,,9,,Christie's
+AID-372,2011,Vincent van Gogh,Artwork 372,Painting,85257,865789,Asia,,,1,41.0,Christie's
+AID-373,2014,Frida Kahlo,Artwork 373,Drawing,482958,730728,North America,2015.0,,4,,Phillips
+AID-374,2010,Pablo Picasso,Artwork 374,Photography,829143,606644,South America,,621796.0,9,,Sotheby's
+AID-375,2021,Pablo Picasso,Artwork 375,Painting,11530,282355,Asia,,,8,,Phillips
+AID-376,2010,Claude Monet,Artwork 376,Drawing,278260,371570,Asia,2017.0,,10,-42.0,Phillips
+AID-377,2014,Georgia O'Keeffe,Artwork 377,Painting,595082,271986,Europe,2017.0,1267302.0,9,,Sotheby's
+AID-378,2021,Vincent van Gogh,Artwork 378,Photography,922786,460331,North America,2018.0,840547.0,1,,Phillips
+AID-379,2022,Vincent van Gogh,Artwork 379,Sculpture,215545,857284,South America,2021.0,721323.0,9,102.0,Christie's
+AID-380,2012,Frida Kahlo,Artwork 380,Painting,662258,391881,Asia,,1426084.0,3,,Christie's
+AID-381,2013,Frida Kahlo,Artwork 381,Photography,533423,312112,Asia,2018.0,733953.0,10,,Christie's
+AID-382,2012,Vincent van Gogh,Artwork 382,Drawing,929133,807940,South America,2015.0,,9,125.0,Christie's
+AID-383,2010,Frida Kahlo,Artwork 383,Painting,376616,157077,North America,,,1,,Sotheby's
+AID-384,2010,Claude Monet,Artwork 384,Painting,916579,58575,Europe,,,1,,Phillips
+AID-385,2021,Vincent van Gogh,Artwork 385,Drawing,483336,477958,Asia,,37043.0,9,,Phillips
+AID-386,2021,Frida Kahlo,Artwork 386,Sculpture,780158,678331,Europe,,1139267.0,6,,Christie's
+AID-387,2022,Vincent van Gogh,Artwork 387,Drawing,618375,422815,Middle East,2015.0,,4,,Christie's
+AID-388,2014,Georgia O'Keeffe,Artwork 388,Painting,725391,484808,North America,2021.0,1152520.0,7,49.0,Phillips
+AID-389,2015,Pablo Picasso,Artwork 389,Drawing,824812,595202,Middle East,,911699.0,5,,Sotheby's
+AID-390,2012,Vincent van Gogh,Artwork 390,Photography,921383,777422,Middle East,,1007057.0,10,130.0,Phillips
+AID-391,2021,Pablo Picasso,Artwork 391,Drawing,284215,595343,Middle East,2024.0,1432089.0,7,,Christie's
+AID-392,2018,Frida Kahlo,Artwork 392,Painting,25074,615985,North America,,,8,,Christie's
+AID-393,2014,Pablo Picasso,Artwork 393,Drawing,751084,634527,North America,,1021942.0,8,71.0,Sotheby's
+AID-394,2017,Vincent van Gogh,Artwork 394,Sculpture,597131,239469,South America,,,1,-34.0,Phillips
+AID-395,2022,Georgia O'Keeffe,Artwork 395,Drawing,44901,127106,Europe,,,8,,Sotheby's
+AID-396,2010,Frida Kahlo,Artwork 396,Sculpture,278349,795787,Europe,,,6,,Sotheby's
+AID-397,2014,Vincent van Gogh,Artwork 397,Photography,978165,844552,South America,,,4,,Christie's
+AID-398,2012,Frida Kahlo,Artwork 398,Sculpture,916093,471835,South America,,73879.0,8,36.0,Phillips
+AID-399,2021,Claude Monet,Artwork 399,Drawing,797338,304486,Middle East,,382454.0,3,147.0,Christie's
+AID-400,2010,Pablo Picasso,Artwork 400,Painting,400807,6257,South America,,,4,,Phillips
+AID-401,2013,Claude Monet,Artwork 401,Sculpture,917008,293508,Asia,,,6,,Christie's
+AID-402,2022,Vincent van Gogh,Artwork 402,Photography,592275,684332,Europe,2015.0,797600.0,7,-31.0,Christie's
+AID-403,2014,Georgia O'Keeffe,Artwork 403,Sculpture,985874,115715,South America,2020.0,,4,,Phillips
+AID-404,2016,Frida Kahlo,Artwork 404,Sculpture,347829,30654,Asia,,1880302.0,4,35.0,Phillips
+AID-405,2010,Pablo Picasso,Artwork 405,Sculpture,377598,740129,Asia,,,7,,Christie's
+AID-406,2012,Frida Kahlo,Artwork 406,Photography,372631,347567,Asia,2017.0,,6,112.00000000000001,Phillips
+AID-407,2011,Vincent van Gogh,Artwork 407,Drawing,583688,295464,Asia,,,8,,Christie's
+AID-408,2018,Frida Kahlo,Artwork 408,Sculpture,161222,549096,Middle East,,1778753.0,1,-38.0,Phillips
+AID-409,2019,Pablo Picasso,Artwork 409,Sculpture,36852,580677,Asia,2015.0,745053.0,10,129.0,Christie's
+AID-410,2015,Vincent van Gogh,Artwork 410,Painting,965374,492906,Middle East,2022.0,,7,,Christie's
+AID-411,2019,Frida Kahlo,Artwork 411,Photography,518012,122581,Middle East,2020.0,,7,-37.0,Christie's
+AID-412,2012,Georgia O'Keeffe,Artwork 412,Sculpture,844188,131927,Asia,,,7,,Sotheby's
+AID-413,2017,Vincent van Gogh,Artwork 413,Photography,382501,38773,Europe,2018.0,,7,,Phillips
+AID-414,2017,Vincent van Gogh,Artwork 414,Sculpture,648340,710528,Asia,,1638254.0,10,,Christie's
+AID-415,2011,Georgia O'Keeffe,Artwork 415,Drawing,61481,424963,Asia,2016.0,,10,-7.000000000000001,Sotheby's
+AID-416,2015,Claude Monet,Artwork 416,Drawing,792715,342540,Asia,,,8,,Christie's
+AID-417,2016,Pablo Picasso,Artwork 417,Sculpture,38691,505590,Europe,,1400100.0,9,,Sotheby's
+AID-418,2011,Claude Monet,Artwork 418,Drawing,399341,373836,North America,2017.0,,9,69.0,Christie's
+AID-419,2020,Frida Kahlo,Artwork 419,Sculpture,203137,218764,North America,,1446909.0,2,,Christie's
+AID-420,2019,Georgia O'Keeffe,Artwork 420,Drawing,555458,585793,Middle East,,,7,,Sotheby's
+AID-421,2011,Claude Monet,Artwork 421,Painting,537726,876328,Middle East,2022.0,,7,114.99999999999999,Sotheby's
+AID-422,2019,Vincent van Gogh,Artwork 422,Painting,811527,546423,Europe,,1623979.0,4,,Phillips
+AID-423,2010,Frida Kahlo,Artwork 423,Painting,676514,619175,South America,,355876.0,9,,Phillips
+AID-424,2017,Frida Kahlo,Artwork 424,Photography,406220,126118,North America,,,8,-14.000000000000002,Sotheby's
+AID-425,2010,Claude Monet,Artwork 425,Photography,801184,313521,Middle East,2019.0,867692.0,1,93.0,Phillips
+AID-426,2018,Claude Monet,Artwork 426,Painting,60426,158626,North America,2017.0,,2,88.0,Sotheby's
+AID-427,2020,Georgia O'Keeffe,Artwork 427,Photography,244968,852923,Europe,,,2,33.0,Phillips
+AID-428,2015,Pablo Picasso,Artwork 428,Drawing,293963,249739,Europe,2016.0,,8,,Christie's
+AID-429,2016,Claude Monet,Artwork 429,Sculpture,500384,848715,South America,,,1,-30.0,Phillips
+AID-430,2022,Claude Monet,Artwork 430,Sculpture,883483,482356,South America,2018.0,1239351.0,4,83.0,Christie's
+AID-431,2019,Vincent van Gogh,Artwork 431,Sculpture,526121,283067,Europe,,481678.0,10,,Christie's
+AID-432,2016,Frida Kahlo,Artwork 432,Painting,160289,313735,Middle East,,1832700.0,5,42.0,Phillips
+AID-433,2019,Pablo Picasso,Artwork 433,Photography,266501,590549,North America,2023.0,228547.0,9,-8.0,Sotheby's
+AID-434,2012,Vincent van Gogh,Artwork 434,Drawing,524165,320480,Asia,,235121.0,7,129.0,Christie's
+AID-435,2011,Georgia O'Keeffe,Artwork 435,Drawing,224780,340227,South America,,1083078.0,8,-4.0,Christie's
+AID-436,2018,Georgia O'Keeffe,Artwork 436,Painting,300138,589236,Asia,,,9,-25.0,Phillips
+AID-437,2017,Claude Monet,Artwork 437,Drawing,675396,244891,Middle East,2024.0,1771652.0,7,,Sotheby's
+AID-438,2022,Claude Monet,Artwork 438,Drawing,737635,168074,South America,,,5,-23.0,Sotheby's
+AID-439,2021,Georgia O'Keeffe,Artwork 439,Drawing,102756,477314,Asia,,,5,,Phillips
+AID-440,2019,Claude Monet,Artwork 440,Drawing,447632,513452,Middle East,,597073.0,10,92.0,Sotheby's
+AID-441,2016,Pablo Picasso,Artwork 441,Photography,932091,292816,North America,,,6,,Phillips
+AID-442,2018,Claude Monet,Artwork 442,Drawing,100665,794645,Middle East,,,5,80.0,Phillips
+AID-443,2013,Frida Kahlo,Artwork 443,Sculpture,661005,145365,South America,2016.0,,9,56.99999999999999,Phillips
+AID-444,2022,Claude Monet,Artwork 444,Painting,167002,453076,Europe,2024.0,,3,,Christie's
+AID-445,2013,Vincent van Gogh,Artwork 445,Photography,266691,66507,North America,,,3,71.0,Christie's
+AID-446,2010,Pablo Picasso,Artwork 446,Drawing,611123,61134,Asia,,,7,,Christie's
+AID-447,2017,Vincent van Gogh,Artwork 447,Photography,127232,137172,South America,,1935377.0,7,,Phillips
+AID-448,2021,Vincent van Gogh,Artwork 448,Drawing,952594,245225,Europe,,,6,,Christie's
+AID-449,2012,Frida Kahlo,Artwork 449,Sculpture,747849,197069,Middle East,2022.0,,3,,Christie's
+AID-450,2016,Pablo Picasso,Artwork 450,Painting,450358,818604,Europe,,,7,1.0,Christie's
+AID-451,2021,Pablo Picasso,Artwork 451,Drawing,248051,810564,South America,,,5,,Phillips
+AID-452,2011,Pablo Picasso,Artwork 452,Drawing,162547,777221,South America,2016.0,586250.0,7,133.0,Phillips
+AID-453,2011,Pablo Picasso,Artwork 453,Drawing,417104,808631,Europe,,1260854.0,2,25.0,Phillips
+AID-454,2016,Pablo Picasso,Artwork 454,Drawing,573020,564897,Middle East,2016.0,,6,117.0,Christie's
+AID-455,2015,Frida Kahlo,Artwork 455,Painting,741983,178037,Europe,,1752821.0,8,,Sotheby's
+AID-456,2012,Claude Monet,Artwork 456,Painting,313449,667376,South America,2020.0,542125.0,1,,Christie's
+AID-457,2018,Vincent van Gogh,Artwork 457,Sculpture,706397,436995,South America,2023.0,,4,113.99999999999999,Christie's
+AID-458,2019,Pablo Picasso,Artwork 458,Painting,538634,500013,Asia,2016.0,,1,124.0,Phillips
+AID-459,2022,Claude Monet,Artwork 459,Drawing,792019,298025,Asia,2023.0,1427522.0,1,,Phillips
+AID-460,2015,Claude Monet,Artwork 460,Sculpture,17763,741954,North America,,61012.0,10,49.0,Christie's
+AID-461,2019,Vincent van Gogh,Artwork 461,Sculpture,195237,814904,South America,,,8,,Christie's
+AID-462,2019,Frida Kahlo,Artwork 462,Sculpture,767841,504098,Asia,2015.0,,7,124.0,Sotheby's
+AID-463,2015,Georgia O'Keeffe,Artwork 463,Drawing,861047,711173,Europe,,,10,,Sotheby's
+AID-464,2010,Georgia O'Keeffe,Artwork 464,Photography,434332,759728,Middle East,,780391.0,1,-22.0,Phillips
+AID-465,2013,Claude Monet,Artwork 465,Drawing,650275,261803,Europe,,,2,,Sotheby's
+AID-466,2019,Vincent van Gogh,Artwork 466,Painting,221823,695381,Middle East,,948624.0,4,,Sotheby's
+AID-467,2015,Georgia O'Keeffe,Artwork 467,Painting,96353,320275,Asia,,725003.0,1,,Phillips
+AID-468,2015,Claude Monet,Artwork 468,Drawing,226373,683447,North America,,708267.0,3,,Sotheby's
+AID-469,2020,Frida Kahlo,Artwork 469,Drawing,362792,16828,Europe,2018.0,,8,,Christie's
+AID-470,2021,Georgia O'Keeffe,Artwork 470,Sculpture,554844,887096,Europe,,,8,,Sotheby's
+AID-471,2014,Claude Monet,Artwork 471,Drawing,850474,520835,Europe,,,8,,Phillips
+AID-472,2010,Claude Monet,Artwork 472,Sculpture,547387,660761,Middle East,,1764187.0,6,,Christie's
+AID-473,2017,Pablo Picasso,Artwork 473,Painting,376233,805625,Asia,,,6,28.999999999999996,Sotheby's
+AID-474,2014,Frida Kahlo,Artwork 474,Sculpture,181168,227461,Europe,2021.0,483196.0,5,64.0,Christie's
+AID-475,2021,Pablo Picasso,Artwork 475,Drawing,732346,442080,Europe,,,9,,Christie's
+AID-476,2021,Vincent van Gogh,Artwork 476,Painting,673590,417523,North America,,1289802.0,4,-35.0,Sotheby's
+AID-477,2021,Pablo Picasso,Artwork 477,Photography,427225,368662,North America,2020.0,1824630.0,10,,Sotheby's
+AID-478,2014,Pablo Picasso,Artwork 478,Sculpture,207041,285755,Asia,,,7,84.0,Phillips
+AID-479,2016,Georgia O'Keeffe,Artwork 479,Painting,38866,703151,Asia,,,1,,Phillips
+AID-480,2013,Claude Monet,Artwork 480,Sculpture,110400,933454,South America,,,9,,Christie's
+AID-481,2015,Frida Kahlo,Artwork 481,Painting,875678,342384,North America,2022.0,,7,-24.0,Phillips
+AID-482,2022,Pablo Picasso,Artwork 482,Painting,344119,243719,South America,,,10,,Christie's
+AID-483,2013,Frida Kahlo,Artwork 483,Sculpture,440071,736763,Middle East,,1551084.0,9,,Christie's
+AID-484,2012,Pablo Picasso,Artwork 484,Photography,348701,793177,South America,,1740119.0,7,,Phillips
+AID-485,2016,Vincent van Gogh,Artwork 485,Painting,142488,845675,Europe,,,2,71.0,Phillips
+AID-486,2017,Pablo Picasso,Artwork 486,Painting,601804,270010,South America,,,6,,Phillips
+AID-487,2013,Georgia O'Keeffe,Artwork 487,Painting,191987,691605,Asia,,715937.0,10,,Sotheby's
+AID-488,2022,Claude Monet,Artwork 488,Photography,416274,441940,Middle East,,1203914.0,4,,Christie's
+AID-489,2011,Vincent van Gogh,Artwork 489,Photography,999141,919113,Europe,2023.0,1560330.0,3,-27.0,Christie's
+AID-490,2021,Pablo Picasso,Artwork 490,Drawing,438934,599642,South America,2018.0,,2,,Christie's
+AID-491,2019,Frida Kahlo,Artwork 491,Sculpture,299746,55374,Middle East,,569650.0,6,,Phillips
+AID-492,2012,Vincent van Gogh,Artwork 492,Photography,472874,118397,Middle East,2020.0,,8,-2.0,Phillips
+AID-493,2010,Vincent van Gogh,Artwork 493,Sculpture,476328,252552,Europe,,,6,,Phillips
+AID-494,2017,Pablo Picasso,Artwork 494,Drawing,194139,390721,South America,,,9,24.0,Phillips
+AID-495,2012,Vincent van Gogh,Artwork 495,Sculpture,163588,427332,Middle East,2015.0,,5,,Phillips
+AID-496,2021,Frida Kahlo,Artwork 496,Photography,658583,871461,Middle East,2020.0,1471659.0,2,,Sotheby's
+AID-497,2019,Vincent van Gogh,Artwork 497,Sculpture,617257,884006,North America,2019.0,933882.0,8,,Phillips
+AID-498,2016,Frida Kahlo,Artwork 498,Photography,661449,941951,Middle East,,742318.0,9,73.0,Christie's
+AID-499,2019,Pablo Picasso,Artwork 499,Sculpture,959850,296575,North America,2023.0,632995.0,10,,Phillips
+AID-500,2014,Claude Monet,Artwork 500,Photography,210735,415124,South America,,1963078.0,4,,Christie's
+AID-501,2019,Vincent van Gogh,Artwork 501,Photography,670847,33336,South America,2021.0,255847.0,6,,Phillips
+AID-502,2014,Claude Monet,Artwork 502,Sculpture,267299,831424,South America,2024.0,986006.0,10,-33.0,Phillips
+AID-503,2016,Frida Kahlo,Artwork 503,Drawing,128950,59350,Asia,,1286043.0,8,-5.0,Christie's
+AID-504,2018,Vincent van Gogh,Artwork 504,Painting,334638,597849,South America,2018.0,,9,,Christie's
+AID-505,2021,Georgia O'Keeffe,Artwork 505,Drawing,605517,514470,Middle East,,,5,,Christie's
+AID-506,2014,Claude Monet,Artwork 506,Sculpture,109648,842387,Europe,,802955.0,6,,Christie's
+AID-507,2010,Vincent van Gogh,Artwork 507,Drawing,43547,65240,North America,,,4,,Sotheby's
+AID-508,2019,Claude Monet,Artwork 508,Photography,558083,679453,Asia,,,5,31.0,Christie's
+AID-509,2019,Vincent van Gogh,Artwork 509,Painting,191368,403371,South America,2023.0,,7,-12.0,Phillips
+AID-510,2010,Pablo Picasso,Artwork 510,Sculpture,550735,574895,South America,2016.0,,9,68.0,Phillips
+AID-511,2011,Claude Monet,Artwork 511,Sculpture,696958,715028,Europe,,,10,,Sotheby's
+AID-512,2015,Georgia O'Keeffe,Artwork 512,Sculpture,964318,942467,Europe,2020.0,567373.0,6,-41.0,Christie's
+AID-513,2018,Georgia O'Keeffe,Artwork 513,Painting,751111,185196,Asia,2023.0,1457922.0,6,,Phillips
+AID-514,2017,Frida Kahlo,Artwork 514,Photography,261190,319014,North America,,,8,115.99999999999999,Sotheby's
+AID-515,2022,Vincent van Gogh,Artwork 515,Sculpture,211402,453763,South America,2024.0,501638.0,4,,Phillips
+AID-516,2014,Claude Monet,Artwork 516,Drawing,257419,592398,Asia,,1697025.0,3,,Sotheby's
+AID-517,2010,Frida Kahlo,Artwork 517,Sculpture,759105,188626,Middle East,2020.0,,7,,Sotheby's
+AID-518,2022,Claude Monet,Artwork 518,Sculpture,879392,680296,Middle East,,,5,,Christie's
+AID-519,2016,Vincent van Gogh,Artwork 519,Sculpture,854710,383039,Asia,,1356091.0,2,,Sotheby's
+AID-520,2014,Georgia O'Keeffe,Artwork 520,Sculpture,584365,532714,South America,,,2,,Phillips
+AID-521,2015,Pablo Picasso,Artwork 521,Photography,117782,748199,Asia,2016.0,,6,,Phillips
+AID-522,2022,Georgia O'Keeffe,Artwork 522,Drawing,632220,818038,South America,,,8,52.0,Christie's
+AID-523,2016,Frida Kahlo,Artwork 523,Photography,994410,445048,Europe,,1409298.0,1,,Christie's
+AID-524,2012,Pablo Picasso,Artwork 524,Drawing,932032,556439,Asia,,792409.0,6,,Sotheby's
+AID-525,2021,Frida Kahlo,Artwork 525,Sculpture,448316,277452,South America,2022.0,354572.0,2,,Christie's
+AID-526,2019,Vincent van Gogh,Artwork 526,Painting,377013,244853,Asia,,723391.0,2,,Phillips
+AID-527,2012,Pablo Picasso,Artwork 527,Photography,930683,782883,Asia,,347164.0,7,94.0,Phillips
+AID-528,2014,Frida Kahlo,Artwork 528,Painting,315925,180743,South America,,,10,,Christie's
+AID-529,2015,Vincent van Gogh,Artwork 529,Photography,191339,94306,South America,,771062.0,1,,Christie's
+AID-530,2018,Georgia O'Keeffe,Artwork 530,Sculpture,480595,753468,North America,2020.0,,6,,Christie's
+AID-531,2022,Vincent van Gogh,Artwork 531,Photography,422168,897416,Asia,2020.0,329186.0,7,113.99999999999999,Sotheby's
+AID-532,2021,Claude Monet,Artwork 532,Sculpture,845230,530492,Middle East,,,8,23.0,Sotheby's
+AID-533,2014,Vincent van Gogh,Artwork 533,Photography,103696,96769,Asia,,,7,,Phillips
+AID-534,2010,Vincent van Gogh,Artwork 534,Sculpture,508650,91265,Asia,2019.0,694308.0,6,99.0,Sotheby's
+AID-535,2013,Claude Monet,Artwork 535,Sculpture,55939,821563,South America,,1651987.0,9,-16.0,Sotheby's
+AID-536,2014,Frida Kahlo,Artwork 536,Drawing,820948,56428,Asia,2020.0,,3,,Sotheby's
+AID-537,2021,Frida Kahlo,Artwork 537,Sculpture,716886,562158,Asia,2015.0,,6,,Sotheby's
+AID-538,2019,Vincent van Gogh,Artwork 538,Drawing,146521,631835,Middle East,2019.0,,4,,Phillips
+AID-539,2019,Claude Monet,Artwork 539,Sculpture,579578,764278,South America,,1288639.0,2,,Christie's
+AID-540,2014,Claude Monet,Artwork 540,Painting,918120,53067,Asia,,838894.0,1,,Phillips
+AID-541,2016,Georgia O'Keeffe,Artwork 541,Sculpture,878093,766371,Europe,2023.0,448744.0,1,-50.0,Sotheby's
+AID-542,2013,Frida Kahlo,Artwork 542,Painting,340098,116217,North America,,,10,56.99999999999999,Christie's
+AID-543,2010,Pablo Picasso,Artwork 543,Painting,814178,943111,Middle East,2015.0,,3,,Christie's
+AID-544,2014,Frida Kahlo,Artwork 544,Sculpture,597278,422184,Asia,,,4,,Christie's
+AID-545,2016,Frida Kahlo,Artwork 545,Painting,588098,627222,Europe,2015.0,966176.0,2,,Phillips
+AID-546,2019,Georgia O'Keeffe,Artwork 546,Drawing,647650,146980,Asia,,1550450.0,1,,Christie's
+AID-547,2019,Pablo Picasso,Artwork 547,Photography,481513,947927,Asia,,,4,-12.0,Phillips
+AID-548,2015,Georgia O'Keeffe,Artwork 548,Sculpture,151295,506367,South America,,,7,,Phillips
+AID-549,2014,Pablo Picasso,Artwork 549,Painting,470453,340851,South America,2015.0,,10,,Sotheby's
+AID-550,2013,Vincent van Gogh,Artwork 550,Sculpture,662957,213329,South America,2019.0,1055851.0,6,,Sotheby's
+AID-551,2011,Pablo Picasso,Artwork 551,Drawing,726037,261354,Europe,,,6,148.0,Christie's
+AID-552,2013,Georgia O'Keeffe,Artwork 552,Sculpture,269803,527406,Asia,,,9,-48.0,Christie's
+AID-553,2019,Frida Kahlo,Artwork 553,Sculpture,91516,65215,North America,2016.0,454854.0,2,,Sotheby's
+AID-554,2019,Pablo Picasso,Artwork 554,Painting,79567,715195,Middle East,,,4,84.0,Phillips
+AID-555,2012,Pablo Picasso,Artwork 555,Drawing,806469,315573,South America,,,5,66.0,Phillips
+AID-556,2019,Claude Monet,Artwork 556,Photography,131498,872584,South America,,,1,,Sotheby's
+AID-557,2010,Frida Kahlo,Artwork 557,Photography,707098,636336,Asia,,,8,84.0,Phillips
+AID-558,2017,Vincent van Gogh,Artwork 558,Painting,469894,173530,Asia,,,8,75.0,Sotheby's
+AID-559,2014,Georgia O'Keeffe,Artwork 559,Sculpture,541397,181241,Europe,,1777224.0,6,-8.0,Sotheby's
+AID-560,2022,Vincent van Gogh,Artwork 560,Painting,289154,142731,Europe,,,5,-14.000000000000002,Christie's
+AID-561,2013,Frida Kahlo,Artwork 561,Painting,800219,457830,South America,,,8,,Christie's
+AID-562,2017,Pablo Picasso,Artwork 562,Painting,768760,768265,Asia,,,3,-1.0,Sotheby's
+AID-563,2016,Pablo Picasso,Artwork 563,Sculpture,144544,343384,North America,,1441591.0,3,,Christie's
+AID-564,2011,Frida Kahlo,Artwork 564,Drawing,251183,430009,Middle East,,,2,99.0,Sotheby's
+AID-565,2010,Pablo Picasso,Artwork 565,Painting,683743,117688,Asia,2020.0,,5,,Phillips
+AID-566,2021,Pablo Picasso,Artwork 566,Sculpture,328853,312617,Asia,,1963655.0,3,,Phillips
+AID-567,2020,Pablo Picasso,Artwork 567,Drawing,468001,887194,Europe,,919834.0,3,,Phillips
+AID-568,2013,Georgia O'Keeffe,Artwork 568,Painting,773613,748748,Middle East,,,6,,Phillips
+AID-569,2017,Georgia O'Keeffe,Artwork 569,Photography,39518,494834,South America,,36505.0,8,88.0,Sotheby's
+AID-570,2021,Claude Monet,Artwork 570,Drawing,58909,897388,Asia,,,2,,Phillips
+AID-571,2011,Vincent van Gogh,Artwork 571,Painting,809783,384596,South America,,,4,,Phillips
+AID-572,2012,Frida Kahlo,Artwork 572,Drawing,729984,715111,Asia,2021.0,1885530.0,7,,Phillips
+AID-573,2021,Frida Kahlo,Artwork 573,Drawing,975834,916743,South America,,,1,,Phillips
+AID-574,2010,Frida Kahlo,Artwork 574,Drawing,520693,738275,Middle East,2023.0,1944405.0,1,,Sotheby's
+AID-575,2010,Claude Monet,Artwork 575,Drawing,544570,273150,Europe,,983215.0,10,,Phillips
+AID-576,2022,Georgia O'Keeffe,Artwork 576,Drawing,483082,253243,Middle East,,,7,,Christie's
+AID-577,2012,Claude Monet,Artwork 577,Drawing,244017,602506,North America,,1597663.0,7,,Christie's
+AID-578,2020,Frida Kahlo,Artwork 578,Painting,419994,200416,Europe,,,1,147.0,Christie's
+AID-579,2014,Vincent van Gogh,Artwork 579,Photography,946768,560718,Middle East,,58784.0,1,,Christie's
+AID-580,2021,Pablo Picasso,Artwork 580,Sculpture,457891,27091,North America,2016.0,,4,15.0,Christie's
+AID-581,2012,Georgia O'Keeffe,Artwork 581,Drawing,796507,785413,Asia,,1783462.0,5,,Christie's
+AID-582,2010,Georgia O'Keeffe,Artwork 582,Sculpture,474164,552277,Asia,2023.0,191413.0,5,-45.0,Sotheby's
+AID-583,2010,Claude Monet,Artwork 583,Painting,708814,79451,South America,2021.0,,4,,Christie's
+AID-584,2017,Georgia O'Keeffe,Artwork 584,Drawing,33365,22990,Europe,,,8,38.0,Phillips
+AID-585,2019,Frida Kahlo,Artwork 585,Photography,470982,356414,Asia,,1527307.0,7,-17.0,Christie's
+AID-586,2020,Frida Kahlo,Artwork 586,Sculpture,446416,870792,Europe,,167255.0,9,,Sotheby's
+AID-587,2021,Claude Monet,Artwork 587,Drawing,278146,254541,Asia,,,7,,Christie's
+AID-588,2022,Frida Kahlo,Artwork 588,Painting,281091,826513,South America,,,10,14.000000000000002,Phillips
+AID-589,2022,Vincent van Gogh,Artwork 589,Photography,215294,670393,Middle East,,,1,,Phillips
+AID-590,2021,Claude Monet,Artwork 590,Sculpture,886272,374416,South America,,,7,-21.0,Sotheby's
+AID-591,2011,Vincent van Gogh,Artwork 591,Sculpture,121219,806673,North America,,1260469.0,1,112.00000000000001,Sotheby's
+AID-592,2022,Pablo Picasso,Artwork 592,Drawing,345754,128932,Asia,2024.0,1990196.0,7,,Sotheby's
+AID-593,2012,Vincent van Gogh,Artwork 593,Photography,843574,272083,North America,2017.0,,10,,Sotheby's
+AID-594,2011,Pablo Picasso,Artwork 594,Photography,585595,117000,North America,2023.0,86425.0,8,,Christie's
+AID-595,2012,Pablo Picasso,Artwork 595,Photography,140565,706922,Europe,,1598858.0,9,,Christie's
+AID-596,2016,Vincent van Gogh,Artwork 596,Photography,784383,563351,Asia,,,3,,Phillips
+AID-597,2010,Claude Monet,Artwork 597,Painting,317229,497216,North America,,,4,,Sotheby's
+AID-598,2019,Frida Kahlo,Artwork 598,Photography,563516,736081,Middle East,,1337925.0,4,74.0,Sotheby's
+AID-599,2017,Frida Kahlo,Artwork 599,Sculpture,740036,686405,North America,,,9,,Christie's
+AID-600,2022,Pablo Picasso,Artwork 600,Sculpture,974379,513850,Middle East,2016.0,,7,,Sotheby's
+AID-601,2019,Pablo Picasso,Artwork 601,Painting,429871,441985,Europe,2016.0,,3,5.0,Phillips
+AID-602,2019,Claude Monet,Artwork 602,Sculpture,572760,837550,North America,,,10,,Phillips
+AID-603,2019,Georgia O'Keeffe,Artwork 603,Sculpture,840869,88703,South America,,97876.0,5,,Sotheby's
+AID-604,2011,Vincent van Gogh,Artwork 604,Photography,971920,499164,Europe,,,7,,Phillips
+AID-605,2012,Pablo Picasso,Artwork 605,Sculpture,851143,418841,Middle East,,,8,104.0,Phillips
+AID-606,2018,Frida Kahlo,Artwork 606,Painting,142888,764084,Europe,,,1,,Christie's
+AID-607,2016,Claude Monet,Artwork 607,Photography,82175,656845,North America,,,2,,Phillips
+AID-608,2013,Vincent van Gogh,Artwork 608,Drawing,593595,293220,Asia,,406601.0,7,,Sotheby's
+AID-609,2019,Claude Monet,Artwork 609,Photography,313877,257317,Asia,2023.0,,2,,Sotheby's
+AID-610,2014,Vincent van Gogh,Artwork 610,Painting,919634,199877,Middle East,,75030.0,7,,Phillips
+AID-611,2011,Vincent van Gogh,Artwork 611,Photography,100028,835037,Middle East,2018.0,1222980.0,9,,Sotheby's
+AID-612,2022,Pablo Picasso,Artwork 612,Photography,514666,350709,Asia,,489702.0,2,,Christie's
+AID-613,2020,Claude Monet,Artwork 613,Painting,147312,485725,Middle East,,,7,-39.0,Phillips
+AID-614,2022,Claude Monet,Artwork 614,Photography,496450,829553,Europe,,,4,,Phillips
+AID-615,2017,Frida Kahlo,Artwork 615,Painting,97493,821865,South America,,,2,,Phillips
+AID-616,2013,Frida Kahlo,Artwork 616,Painting,130149,571597,South America,,,7,,Sotheby's
+AID-617,2018,Pablo Picasso,Artwork 617,Drawing,758704,857900,Europe,2019.0,,5,,Sotheby's
+AID-618,2014,Pablo Picasso,Artwork 618,Sculpture,207435,441470,South America,2016.0,,1,104.0,Phillips
+AID-619,2022,Georgia O'Keeffe,Artwork 619,Sculpture,168834,857725,North America,,,5,,Sotheby's
+AID-620,2018,Frida Kahlo,Artwork 620,Photography,275403,362402,Europe,,1016630.0,3,11.0,Sotheby's
+AID-621,2013,Vincent van Gogh,Artwork 621,Photography,186211,828837,Middle East,2023.0,,7,,Phillips
+AID-622,2019,Claude Monet,Artwork 622,Drawing,920207,571815,Europe,,1392463.0,6,126.0,Phillips
+AID-623,2014,Pablo Picasso,Artwork 623,Drawing,281993,867659,Asia,,,8,69.0,Sotheby's
+AID-624,2018,Claude Monet,Artwork 624,Drawing,348912,921996,Middle East,,,5,,Phillips
+AID-625,2017,Claude Monet,Artwork 625,Painting,373252,752778,Asia,2019.0,,2,,Phillips
+AID-626,2012,Georgia O'Keeffe,Artwork 626,Drawing,881141,143883,Middle East,2024.0,1528560.0,9,,Phillips
+AID-627,2010,Frida Kahlo,Artwork 627,Drawing,322013,621632,South America,,,8,,Phillips
+AID-628,2012,Pablo Picasso,Artwork 628,Photography,918320,159344,Europe,2021.0,,6,5.0,Sotheby's
+AID-629,2013,Claude Monet,Artwork 629,Drawing,68095,469226,North America,2020.0,,10,,Phillips
+AID-630,2011,Pablo Picasso,Artwork 630,Painting,122886,751852,Middle East,,276186.0,7,,Christie's
+AID-631,2010,Vincent van Gogh,Artwork 631,Painting,862342,575441,Middle East,,,9,,Phillips
+AID-632,2016,Georgia O'Keeffe,Artwork 632,Photography,484926,112042,Asia,,,7,-40.0,Christie's
+AID-633,2017,Vincent van Gogh,Artwork 633,Drawing,290711,58110,South America,2024.0,,3,61.0,Phillips
+AID-634,2016,Pablo Picasso,Artwork 634,Drawing,40292,149051,Asia,,,6,,Christie's
+AID-635,2014,Pablo Picasso,Artwork 635,Painting,79813,769419,Asia,2019.0,1290896.0,7,,Christie's
+AID-636,2021,Frida Kahlo,Artwork 636,Drawing,626424,767461,South America,,,2,,Phillips
+AID-637,2010,Claude Monet,Artwork 637,Drawing,580919,32328,North America,2018.0,,3,23.0,Phillips
+AID-638,2016,Claude Monet,Artwork 638,Drawing,14885,641199,Asia,,1463953.0,4,39.0,Phillips
+AID-639,2022,Vincent van Gogh,Artwork 639,Sculpture,982163,279011,Asia,,,10,141.0,Christie's
+AID-640,2016,Georgia O'Keeffe,Artwork 640,Photography,190378,63234,Middle East,2020.0,,6,134.0,Sotheby's
+AID-641,2018,Claude Monet,Artwork 641,Sculpture,857746,816283,South America,2020.0,,1,,Sotheby's
+AID-642,2012,Frida Kahlo,Artwork 642,Photography,332231,821711,Europe,2021.0,598033.0,9,,Phillips
+AID-643,2018,Vincent van Gogh,Artwork 643,Painting,427381,776791,North America,,,5,,Sotheby's
+AID-644,2010,Vincent van Gogh,Artwork 644,Drawing,981433,231135,North America,2017.0,,7,,Sotheby's
+AID-645,2010,Frida Kahlo,Artwork 645,Photography,465244,601690,South America,,,9,100.0,Phillips
+AID-646,2013,Georgia O'Keeffe,Artwork 646,Sculpture,887430,805881,Middle East,,57779.0,9,,Christie's
+AID-647,2018,Frida Kahlo,Artwork 647,Drawing,579100,342365,Middle East,,,1,-31.0,Phillips
+AID-648,2015,Georgia O'Keeffe,Artwork 648,Painting,710860,879512,South America,,1729109.0,1,,Sotheby's
+AID-649,2022,Frida Kahlo,Artwork 649,Photography,477367,533739,Middle East,,,3,,Christie's
+AID-650,2020,Frida Kahlo,Artwork 650,Photography,325787,91178,North America,2024.0,,6,,Sotheby's
+AID-651,2012,Pablo Picasso,Artwork 651,Photography,49900,854193,North America,,,2,,Christie's
+AID-652,2010,Vincent van Gogh,Artwork 652,Drawing,441162,240562,Europe,2016.0,,10,-50.0,Sotheby's
+AID-653,2013,Frida Kahlo,Artwork 653,Sculpture,406067,305014,South America,,,1,,Phillips
+AID-654,2021,Frida Kahlo,Artwork 654,Sculpture,807720,362710,Asia,,,1,77.0,Sotheby's
+AID-655,2022,Claude Monet,Artwork 655,Photography,77692,389893,Asia,,1958697.0,5,,Sotheby's
+AID-656,2018,Vincent van Gogh,Artwork 656,Painting,465796,127765,Europe,2023.0,1089037.0,4,83.0,Christie's
+AID-657,2012,Claude Monet,Artwork 657,Painting,405584,391025,Europe,2021.0,,1,71.0,Sotheby's
+AID-658,2021,Vincent van Gogh,Artwork 658,Sculpture,876868,132389,Middle East,2022.0,865695.0,4,97.0,Phillips
+AID-659,2018,Claude Monet,Artwork 659,Painting,756496,717987,Europe,2024.0,,3,43.0,Phillips
+AID-660,2016,Frida Kahlo,Artwork 660,Sculpture,51403,201227,Europe,,,2,,Phillips
+AID-661,2021,Frida Kahlo,Artwork 661,Photography,620458,496402,Asia,,,9,98.0,Christie's
+AID-662,2013,Pablo Picasso,Artwork 662,Sculpture,800600,815804,Middle East,2016.0,,1,82.0,Christie's
+AID-663,2012,Claude Monet,Artwork 663,Sculpture,317023,794074,Europe,,,7,88.0,Sotheby's
+AID-664,2019,Georgia O'Keeffe,Artwork 664,Photography,64871,264220,Europe,,1534149.0,4,35.0,Sotheby's
+AID-665,2014,Pablo Picasso,Artwork 665,Painting,487604,425217,Middle East,,,5,100.0,Sotheby's
+AID-666,2014,Claude Monet,Artwork 666,Sculpture,496862,300208,South America,,,10,126.0,Christie's
+AID-667,2012,Claude Monet,Artwork 667,Sculpture,37174,754186,Middle East,,,5,,Christie's
+AID-668,2021,Pablo Picasso,Artwork 668,Photography,760111,804554,Asia,,703464.0,1,73.0,Sotheby's
+AID-669,2018,Frida Kahlo,Artwork 669,Painting,228563,946324,South America,,,6,28.000000000000004,Christie's
+AID-670,2013,Claude Monet,Artwork 670,Sculpture,142653,72431,North America,,1202564.0,9,,Christie's
+AID-671,2020,Frida Kahlo,Artwork 671,Photography,115155,59745,Middle East,,,2,,Phillips
+AID-672,2014,Pablo Picasso,Artwork 672,Sculpture,338997,54081,Asia,,1525719.0,7,,Phillips
+AID-673,2013,Frida Kahlo,Artwork 673,Drawing,855478,930215,South America,2018.0,,6,26.0,Sotheby's
+AID-674,2014,Vincent van Gogh,Artwork 674,Photography,316822,220204,Middle East,,,5,94.0,Sotheby's
+AID-675,2016,Georgia O'Keeffe,Artwork 675,Painting,506608,940297,Europe,,,4,,Phillips
+AID-676,2018,Claude Monet,Artwork 676,Painting,818081,405415,Middle East,2019.0,1233981.0,4,,Christie's
+AID-677,2016,Georgia O'Keeffe,Artwork 677,Painting,132795,604541,North America,,,6,15.0,Sotheby's
+AID-678,2022,Frida Kahlo,Artwork 678,Painting,93668,302335,Middle East,,395007.0,4,-45.0,Sotheby's
+AID-679,2014,Claude Monet,Artwork 679,Sculpture,742685,800643,South America,2017.0,,5,111.00000000000001,Sotheby's
+AID-680,2019,Frida Kahlo,Artwork 680,Sculpture,674927,115086,South America,,,6,,Christie's
+AID-681,2019,Vincent van Gogh,Artwork 681,Painting,478620,460285,Middle East,2019.0,,5,,Phillips
+AID-682,2016,Pablo Picasso,Artwork 682,Painting,881338,418758,South America,2018.0,,7,,Sotheby's
+AID-683,2019,Claude Monet,Artwork 683,Painting,768429,428528,Europe,2015.0,,9,126.0,Phillips
+AID-684,2014,Vincent van Gogh,Artwork 684,Sculpture,625307,442458,Middle East,,1165620.0,10,139.0,Phillips
+AID-685,2012,Vincent van Gogh,Artwork 685,Painting,984448,892403,Europe,,1711270.0,7,,Christie's
+AID-686,2016,Claude Monet,Artwork 686,Painting,869434,622071,Europe,,1549164.0,7,135.0,Christie's
+AID-687,2022,Frida Kahlo,Artwork 687,Drawing,558091,653969,Asia,,768171.0,4,66.0,Christie's
+AID-688,2020,Vincent van Gogh,Artwork 688,Drawing,678590,616181,Middle East,,939950.0,1,,Christie's
+AID-689,2020,Georgia O'Keeffe,Artwork 689,Painting,678222,503797,South America,,,8,36.0,Christie's
+AID-690,2011,Vincent van Gogh,Artwork 690,Photography,441571,162763,Europe,,31576.0,4,,Christie's
+AID-691,2021,Frida Kahlo,Artwork 691,Painting,953763,606248,Asia,,637290.0,1,,Sotheby's
+AID-692,2018,Frida Kahlo,Artwork 692,Drawing,235147,874820,Middle East,,1045865.0,5,137.0,Phillips
+AID-693,2019,Georgia O'Keeffe,Artwork 693,Photography,560083,26601,Middle East,,,8,-3.0,Christie's
+AID-694,2019,Vincent van Gogh,Artwork 694,Photography,512820,415236,North America,2018.0,99051.0,4,-42.0,Sotheby's
+AID-695,2021,Frida Kahlo,Artwork 695,Painting,275914,143227,North America,,,8,147.0,Phillips
+AID-696,2010,Claude Monet,Artwork 696,Drawing,540381,728479,Europe,,,8,-27.0,Christie's
+AID-697,2022,Pablo Picasso,Artwork 697,Drawing,969075,696137,North America,2023.0,,3,94.0,Christie's
+AID-698,2015,Pablo Picasso,Artwork 698,Photography,398409,285854,Europe,,1857971.0,9,,Sotheby's
+AID-699,2016,Pablo Picasso,Artwork 699,Painting,367455,374858,South America,,76617.0,3,-46.0,Phillips
+AID-700,2022,Vincent van Gogh,Artwork 700,Sculpture,284713,683892,Europe,,1790248.0,1,-39.0,Christie's
+AID-701,2017,Georgia O'Keeffe,Artwork 701,Sculpture,802622,657015,North America,2015.0,,2,36.0,Phillips
+AID-702,2019,Frida Kahlo,Artwork 702,Drawing,854256,940105,South America,,,6,53.0,Sotheby's
+AID-703,2018,Claude Monet,Artwork 703,Sculpture,703112,591515,North America,,611513.0,10,138.0,Christie's
+AID-704,2011,Claude Monet,Artwork 704,Drawing,692687,664327,Europe,,789957.0,2,,Phillips
+AID-705,2020,Vincent van Gogh,Artwork 705,Drawing,309214,612577,Asia,2022.0,892693.0,6,,Sotheby's
+AID-706,2019,Pablo Picasso,Artwork 706,Drawing,569485,155094,Middle East,,,1,26.0,Sotheby's
+AID-707,2011,Vincent van Gogh,Artwork 707,Sculpture,531549,440679,North America,,,1,,Christie's
+AID-708,2014,Georgia O'Keeffe,Artwork 708,Drawing,162584,734031,Europe,2021.0,,5,,Phillips
+AID-709,2022,Georgia O'Keeffe,Artwork 709,Photography,929220,796154,South America,,,10,,Christie's
+AID-710,2014,Frida Kahlo,Artwork 710,Painting,353939,686773,North America,2022.0,,9,,Christie's
+AID-711,2015,Frida Kahlo,Artwork 711,Painting,296077,871482,North America,,1944116.0,8,,Phillips
+AID-712,2012,Georgia O'Keeffe,Artwork 712,Drawing,664738,506648,Middle East,2020.0,,3,62.0,Phillips
+AID-713,2017,Georgia O'Keeffe,Artwork 713,Painting,569871,762108,Europe,,,3,-10.0,Phillips
+AID-714,2022,Georgia O'Keeffe,Artwork 714,Sculpture,379226,765282,Asia,2018.0,546512.0,1,,Sotheby's
+AID-715,2010,Vincent van Gogh,Artwork 715,Sculpture,876803,483083,South America,2022.0,1949328.0,3,125.0,Sotheby's
+AID-716,2015,Georgia O'Keeffe,Artwork 716,Painting,689393,349740,Europe,,1399292.0,1,41.0,Phillips
+AID-717,2013,Claude Monet,Artwork 717,Sculpture,422216,857164,South America,,,8,,Sotheby's
+AID-718,2010,Pablo Picasso,Artwork 718,Painting,116032,409513,North America,,1324861.0,1,,Christie's
+AID-719,2016,Georgia O'Keeffe,Artwork 719,Painting,211940,72323,Middle East,,,5,124.0,Phillips
+AID-720,2018,Pablo Picasso,Artwork 720,Painting,309748,289960,Middle East,,580303.0,9,,Christie's
+AID-721,2022,Vincent van Gogh,Artwork 721,Drawing,466552,568983,Asia,,,7,,Phillips
+AID-722,2013,Pablo Picasso,Artwork 722,Painting,886506,416918,Middle East,,,4,43.0,Christie's
+AID-723,2013,Vincent van Gogh,Artwork 723,Drawing,231727,422458,North America,,856334.0,9,,Phillips
+AID-724,2015,Claude Monet,Artwork 724,Painting,78869,59841,Asia,,,9,,Christie's
+AID-725,2021,Vincent van Gogh,Artwork 725,Painting,796842,394642,Europe,2015.0,,2,,Phillips
+AID-726,2012,Vincent van Gogh,Artwork 726,Painting,874807,202784,Middle East,,431863.0,10,,Phillips
+AID-727,2022,Frida Kahlo,Artwork 727,Sculpture,716404,111096,Asia,,1814240.0,10,-47.0,Sotheby's
+AID-728,2021,Georgia O'Keeffe,Artwork 728,Drawing,723675,96764,North America,,254942.0,6,90.0,Christie's
+AID-729,2015,Georgia O'Keeffe,Artwork 729,Drawing,887487,450790,South America,,1401352.0,4,,Sotheby's
+AID-730,2016,Claude Monet,Artwork 730,Painting,207416,614032,South America,,758224.0,8,49.0,Christie's
+AID-731,2020,Claude Monet,Artwork 731,Painting,929300,818914,North America,,,7,,Sotheby's
+AID-732,2019,Georgia O'Keeffe,Artwork 732,Sculpture,616004,537459,North America,,945210.0,7,,Phillips
+AID-733,2019,Frida Kahlo,Artwork 733,Sculpture,583533,629043,South America,2020.0,,10,-23.0,Sotheby's
+AID-734,2012,Georgia O'Keeffe,Artwork 734,Sculpture,572344,496148,Asia,,1600346.0,9,-39.0,Sotheby's
+AID-735,2016,Frida Kahlo,Artwork 735,Drawing,415925,636413,South America,2016.0,1657718.0,5,-48.0,Phillips
+AID-736,2012,Claude Monet,Artwork 736,Drawing,780024,921154,North America,2016.0,,6,,Sotheby's
+AID-737,2022,Pablo Picasso,Artwork 737,Drawing,325701,372226,Middle East,2019.0,123606.0,1,145.0,Phillips
+AID-738,2022,Claude Monet,Artwork 738,Painting,284687,7696,Europe,2023.0,1087506.0,6,19.0,Christie's
+AID-739,2011,Claude Monet,Artwork 739,Drawing,435634,130310,Middle East,,1421120.0,2,-48.0,Sotheby's
+AID-740,2021,Vincent van Gogh,Artwork 740,Photography,754971,941562,Middle East,,,6,,Phillips
+AID-741,2019,Vincent van Gogh,Artwork 741,Photography,501507,679673,North America,2022.0,1353054.0,9,138.0,Phillips
+AID-742,2013,Vincent van Gogh,Artwork 742,Sculpture,887470,809581,South America,,1736334.0,8,,Sotheby's
+AID-743,2021,Vincent van Gogh,Artwork 743,Drawing,414940,920496,Asia,,290195.0,9,,Christie's
+AID-744,2017,Frida Kahlo,Artwork 744,Photography,270972,843953,Middle East,2016.0,,10,,Sotheby's
+AID-745,2022,Georgia O'Keeffe,Artwork 745,Sculpture,121656,49740,South America,2016.0,,8,,Phillips
+AID-746,2018,Pablo Picasso,Artwork 746,Drawing,22087,110611,Asia,2023.0,1633372.0,3,79.0,Christie's
+AID-747,2016,Claude Monet,Artwork 747,Painting,935109,402172,Middle East,2024.0,1359687.0,8,-39.0,Sotheby's
+AID-748,2010,Frida Kahlo,Artwork 748,Photography,298481,472947,Asia,2018.0,1885741.0,6,,Phillips
+AID-749,2012,Pablo Picasso,Artwork 749,Painting,141554,479828,South America,,1355528.0,6,,Sotheby's
+AID-750,2022,Frida Kahlo,Artwork 750,Drawing,856765,777210,Europe,2021.0,,6,,Christie's
+AID-751,2021,Frida Kahlo,Artwork 751,Photography,490757,332785,South America,,,3,114.99999999999999,Christie's
+AID-752,2018,Claude Monet,Artwork 752,Drawing,187024,592099,North America,,,10,28.999999999999996,Christie's
+AID-753,2021,Georgia O'Keeffe,Artwork 753,Painting,141535,449376,Asia,2022.0,620610.0,1,30.0,Christie's
+AID-754,2010,Vincent van Gogh,Artwork 754,Photography,772524,710673,Europe,,1567098.0,4,51.0,Christie's
+AID-755,2018,Georgia O'Keeffe,Artwork 755,Painting,599736,591520,Asia,,,10,,Sotheby's
+AID-756,2017,Claude Monet,Artwork 756,Drawing,533936,805849,Asia,,,6,,Christie's
+AID-757,2010,Claude Monet,Artwork 757,Drawing,397720,684089,Middle East,2021.0,,10,,Christie's
+AID-758,2015,Claude Monet,Artwork 758,Painting,300767,116492,North America,,152003.0,2,,Phillips
+AID-759,2014,Pablo Picasso,Artwork 759,Photography,457372,34099,Asia,2016.0,,7,,Christie's
+AID-760,2015,Georgia O'Keeffe,Artwork 760,Painting,40634,757494,South America,,263608.0,7,,Phillips
+AID-761,2019,Georgia O'Keeffe,Artwork 761,Drawing,967106,427177,South America,2018.0,1683281.0,4,127.0,Phillips
+AID-762,2021,Frida Kahlo,Artwork 762,Painting,381742,934106,Middle East,2019.0,,4,,Phillips
+AID-763,2022,Frida Kahlo,Artwork 763,Drawing,316478,646762,North America,,,1,4.0,Sotheby's
+AID-764,2022,Frida Kahlo,Artwork 764,Painting,860080,275400,North America,,,2,,Sotheby's
+AID-765,2022,Claude Monet,Artwork 765,Photography,551342,483336,South America,,1866309.0,9,148.0,Phillips
+AID-766,2014,Georgia O'Keeffe,Artwork 766,Photography,599316,771876,Europe,2024.0,1382944.0,10,109.00000000000001,Sotheby's
+AID-767,2015,Claude Monet,Artwork 767,Painting,551495,562969,Middle East,2016.0,,8,48.0,Christie's
+AID-768,2014,Pablo Picasso,Artwork 768,Painting,478866,95328,Middle East,2023.0,,8,,Sotheby's
+AID-769,2020,Frida Kahlo,Artwork 769,Photography,760181,746800,South America,,,9,,Christie's
+AID-770,2021,Claude Monet,Artwork 770,Drawing,610842,309505,South America,2019.0,,7,,Christie's
+AID-771,2014,Claude Monet,Artwork 771,Photography,681746,461719,Europe,2019.0,1605123.0,9,-50.0,Sotheby's
+AID-772,2013,Pablo Picasso,Artwork 772,Drawing,612564,38540,Europe,2017.0,959133.0,10,86.0,Sotheby's
+AID-773,2012,Vincent van Gogh,Artwork 773,Painting,982022,161608,North America,2024.0,,2,-27.0,Phillips
+AID-774,2012,Georgia O'Keeffe,Artwork 774,Painting,319925,88700,Middle East,,,6,,Sotheby's
+AID-775,2013,Vincent van Gogh,Artwork 775,Drawing,713140,344676,Middle East,,,3,,Sotheby's
+AID-776,2018,Frida Kahlo,Artwork 776,Painting,197512,715935,South America,2016.0,937699.0,6,,Sotheby's
+AID-777,2011,Claude Monet,Artwork 777,Drawing,966703,393770,North America,2018.0,1839074.0,3,-34.0,Christie's
+AID-778,2018,Pablo Picasso,Artwork 778,Sculpture,852467,400087,Middle East,,,8,,Christie's
+AID-779,2010,Pablo Picasso,Artwork 779,Photography,537498,50002,North America,,,4,121.0,Christie's
+AID-780,2010,Georgia O'Keeffe,Artwork 780,Sculpture,573651,53812,North America,,,10,,Phillips
+AID-781,2014,Vincent van Gogh,Artwork 781,Drawing,771535,419842,South America,,,6,,Phillips
+AID-782,2015,Georgia O'Keeffe,Artwork 782,Photography,607567,719339,North America,,768795.0,9,113.99999999999999,Phillips
+AID-783,2015,Claude Monet,Artwork 783,Drawing,196420,261906,Europe,2016.0,1774688.0,2,,Christie's
+AID-784,2012,Georgia O'Keeffe,Artwork 784,Photography,715644,112946,Europe,2018.0,249647.0,2,,Sotheby's
+AID-785,2016,Pablo Picasso,Artwork 785,Photography,505844,70668,Asia,,,7,3.0,Phillips
+AID-786,2018,Pablo Picasso,Artwork 786,Photography,208196,103003,South America,,1006140.0,2,52.0,Phillips
+AID-787,2020,Frida Kahlo,Artwork 787,Photography,204919,739430,Asia,,396480.0,2,,Christie's
+AID-788,2021,Frida Kahlo,Artwork 788,Drawing,420648,224462,Europe,,1685363.0,4,45.0,Phillips
+AID-789,2019,Claude Monet,Artwork 789,Photography,262324,833430,Asia,2019.0,,9,78.0,Sotheby's
+AID-790,2017,Vincent van Gogh,Artwork 790,Photography,724449,723174,South America,2022.0,1231660.0,8,,Christie's
+AID-791,2015,Georgia O'Keeffe,Artwork 791,Sculpture,977902,632889,South America,,,2,26.0,Christie's
+AID-792,2021,Claude Monet,Artwork 792,Painting,759651,273956,North America,2018.0,,8,75.0,Sotheby's
+AID-793,2017,Frida Kahlo,Artwork 793,Painting,663681,65844,Middle East,2022.0,653703.0,4,,Sotheby's
+AID-794,2021,Georgia O'Keeffe,Artwork 794,Sculpture,872780,729453,North America,2021.0,,2,,Sotheby's
+AID-795,2014,Frida Kahlo,Artwork 795,Sculpture,435599,399395,South America,,,10,140.0,Phillips
+AID-796,2017,Georgia O'Keeffe,Artwork 796,Drawing,380960,703158,Europe,2023.0,973313.0,7,71.0,Sotheby's
+AID-797,2019,Vincent van Gogh,Artwork 797,Drawing,739042,78601,Europe,,1082299.0,6,129.0,Christie's
+AID-798,2021,Claude Monet,Artwork 798,Drawing,652341,929779,North America,,,10,,Sotheby's
+AID-799,2013,Georgia O'Keeffe,Artwork 799,Sculpture,477406,314001,South America,,,5,,Christie's
+AID-800,2019,Pablo Picasso,Artwork 800,Sculpture,188965,391699,Europe,,,1,,Christie's
+AID-801,2017,Pablo Picasso,Artwork 801,Photography,171892,498700,South America,,,2,-42.0,Phillips
+AID-802,2019,Georgia O'Keeffe,Artwork 802,Drawing,857694,286844,Europe,,1290101.0,8,,Sotheby's
+AID-803,2021,Georgia O'Keeffe,Artwork 803,Drawing,139832,786215,South America,,1662433.0,1,-24.0,Phillips
+AID-804,2011,Georgia O'Keeffe,Artwork 804,Drawing,158262,436680,Asia,2020.0,,3,,Sotheby's
+AID-805,2021,Pablo Picasso,Artwork 805,Painting,72411,177423,South America,2021.0,898943.0,2,,Sotheby's
+AID-806,2021,Pablo Picasso,Artwork 806,Photography,290521,97330,South America,,,5,5.0,Sotheby's
+AID-807,2014,Georgia O'Keeffe,Artwork 807,Drawing,444953,229391,North America,2021.0,156115.0,4,34.0,Sotheby's
+AID-808,2018,Frida Kahlo,Artwork 808,Drawing,992073,217606,Asia,2021.0,,7,,Sotheby's
+AID-809,2013,Frida Kahlo,Artwork 809,Drawing,43211,411085,Middle East,2019.0,,5,,Christie's
+AID-810,2020,Vincent van Gogh,Artwork 810,Painting,218981,195387,North America,,1874491.0,8,,Christie's
+AID-811,2015,Claude Monet,Artwork 811,Painting,270888,245133,Middle East,2017.0,,4,131.0,Sotheby's
+AID-812,2010,Frida Kahlo,Artwork 812,Sculpture,785926,490904,Europe,2023.0,,6,,Christie's
+AID-813,2018,Pablo Picasso,Artwork 813,Photography,292139,418170,Middle East,2017.0,,4,134.0,Phillips
+AID-814,2010,Frida Kahlo,Artwork 814,Sculpture,677337,690915,South America,,1036281.0,2,,Phillips
+AID-815,2014,Vincent van Gogh,Artwork 815,Photography,758298,329497,Middle East,,468365.0,1,,Phillips
+AID-816,2013,Vincent van Gogh,Artwork 816,Painting,563830,479406,North America,2016.0,,1,,Sotheby's
+AID-817,2022,Claude Monet,Artwork 817,Drawing,15651,442242,North America,,172434.0,8,-8.0,Sotheby's
+AID-818,2021,Frida Kahlo,Artwork 818,Sculpture,104239,366916,Middle East,,1761292.0,4,,Christie's
+AID-819,2022,Pablo Picasso,Artwork 819,Drawing,870363,182048,North America,,1851049.0,5,38.0,Christie's
+AID-820,2022,Pablo Picasso,Artwork 820,Sculpture,755704,357646,North America,2020.0,1251517.0,8,,Christie's
+AID-821,2012,Georgia O'Keeffe,Artwork 821,Painting,893544,380087,Middle East,2021.0,,7,,Phillips
+AID-822,2022,Pablo Picasso,Artwork 822,Painting,808147,375994,Asia,,,8,,Phillips
+AID-823,2015,Claude Monet,Artwork 823,Painting,442625,573383,Asia,2023.0,,8,,Phillips
+AID-824,2011,Claude Monet,Artwork 824,Sculpture,160378,149342,Europe,,649446.0,6,,Phillips
+AID-825,2012,Pablo Picasso,Artwork 825,Photography,155158,690268,North America,2016.0,1060044.0,10,,Christie's
+AID-826,2014,Pablo Picasso,Artwork 826,Sculpture,412592,805955,Middle East,2018.0,1017787.0,2,5.0,Sotheby's
+AID-827,2018,Georgia O'Keeffe,Artwork 827,Photography,328494,66433,North America,2020.0,878331.0,6,-27.0,Sotheby's
+AID-828,2011,Pablo Picasso,Artwork 828,Sculpture,338569,548279,South America,2023.0,,1,-8.0,Phillips
+AID-829,2019,Georgia O'Keeffe,Artwork 829,Sculpture,501574,276919,North America,,1001052.0,1,,Sotheby's
+AID-830,2017,Georgia O'Keeffe,Artwork 830,Painting,434852,475017,North America,2021.0,,3,,Sotheby's
+AID-831,2011,Pablo Picasso,Artwork 831,Drawing,877552,351139,Asia,,,3,94.0,Sotheby's
+AID-832,2020,Vincent van Gogh,Artwork 832,Drawing,906321,151745,Middle East,2017.0,,5,,Phillips
+AID-833,2022,Vincent van Gogh,Artwork 833,Photography,449865,651096,North America,2018.0,,1,135.0,Christie's
+AID-834,2014,Georgia O'Keeffe,Artwork 834,Drawing,432826,686416,Asia,2016.0,1625832.0,10,,Christie's
+AID-835,2016,Pablo Picasso,Artwork 835,Sculpture,670418,141686,Europe,,,6,101.0,Sotheby's
+AID-836,2017,Vincent van Gogh,Artwork 836,Sculpture,260948,11415,Asia,2021.0,,7,89.0,Christie's
+AID-837,2010,Pablo Picasso,Artwork 837,Painting,526481,774326,Asia,,895621.0,10,118.0,Christie's
+AID-838,2015,Pablo Picasso,Artwork 838,Painting,866069,441100,Asia,,,3,,Phillips
+AID-839,2010,Pablo Picasso,Artwork 839,Drawing,476249,938468,North America,2017.0,,4,,Phillips
+AID-840,2011,Frida Kahlo,Artwork 840,Photography,861626,782493,North America,,,10,85.0,Sotheby's
+AID-841,2010,Pablo Picasso,Artwork 841,Drawing,868349,303188,Europe,2021.0,,10,,Sotheby's
+AID-842,2020,Frida Kahlo,Artwork 842,Drawing,69200,716509,South America,,,10,,Sotheby's
+AID-843,2014,Georgia O'Keeffe,Artwork 843,Drawing,110848,172616,South America,,,10,,Phillips
+AID-844,2019,Vincent van Gogh,Artwork 844,Drawing,111022,53976,South America,2020.0,,10,,Christie's
+AID-845,2018,Vincent van Gogh,Artwork 845,Sculpture,706979,429468,Europe,,,3,,Phillips
+AID-846,2015,Vincent van Gogh,Artwork 846,Photography,939658,269976,South America,,,1,,Phillips
+AID-847,2020,Vincent van Gogh,Artwork 847,Sculpture,417755,225883,South America,2018.0,,8,,Christie's
+AID-848,2020,Vincent van Gogh,Artwork 848,Photography,785741,215509,Asia,,,10,,Christie's
+AID-849,2010,Vincent van Gogh,Artwork 849,Painting,851490,500965,North America,2015.0,,10,,Sotheby's
+AID-850,2022,Vincent van Gogh,Artwork 850,Drawing,67068,824580,North America,,1288567.0,2,31.0,Christie's
+AID-851,2010,Georgia O'Keeffe,Artwork 851,Sculpture,475529,767529,Asia,2020.0,719163.0,1,,Christie's
+AID-852,2011,Pablo Picasso,Artwork 852,Photography,891364,522823,Asia,2020.0,,8,55.00000000000001,Christie's
+AID-853,2018,Claude Monet,Artwork 853,Painting,166445,223526,Asia,2017.0,357761.0,7,,Christie's
+AID-854,2012,Frida Kahlo,Artwork 854,Painting,693514,902662,North America,,1699980.0,7,78.0,Sotheby's
+AID-855,2010,Claude Monet,Artwork 855,Drawing,142103,351220,South America,2020.0,805911.0,4,-28.000000000000004,Sotheby's
+AID-856,2014,Claude Monet,Artwork 856,Photography,229605,828834,Asia,2016.0,,9,,Christie's
+AID-857,2016,Pablo Picasso,Artwork 857,Sculpture,208047,717087,Europe,2017.0,,6,4.0,Christie's
+AID-858,2015,Pablo Picasso,Artwork 858,Drawing,814217,42578,Asia,,386295.0,2,,Sotheby's
+AID-859,2021,Pablo Picasso,Artwork 859,Sculpture,254768,618741,Middle East,2021.0,,1,145.0,Sotheby's
+AID-860,2010,Vincent van Gogh,Artwork 860,Painting,689029,419534,Asia,2018.0,,1,,Christie's
+AID-861,2014,Georgia O'Keeffe,Artwork 861,Sculpture,99475,866147,North America,,,9,-42.0,Phillips
+AID-862,2014,Vincent van Gogh,Artwork 862,Sculpture,515370,212859,Asia,,1376742.0,4,,Sotheby's
+AID-863,2015,Georgia O'Keeffe,Artwork 863,Drawing,531570,115435,Middle East,2022.0,,5,,Sotheby's
+AID-864,2012,Georgia O'Keeffe,Artwork 864,Sculpture,694984,744389,Europe,,,3,92.0,Sotheby's
+AID-865,2014,Claude Monet,Artwork 865,Drawing,708798,155538,South America,2024.0,,4,124.0,Christie's
+AID-866,2016,Claude Monet,Artwork 866,Painting,225972,886174,Asia,2016.0,,8,-25.0,Christie's
+AID-867,2014,Georgia O'Keeffe,Artwork 867,Drawing,858966,49475,Middle East,2015.0,250028.0,4,142.0,Sotheby's
+AID-868,2014,Georgia O'Keeffe,Artwork 868,Drawing,167777,850574,Middle East,,,9,,Christie's
+AID-869,2014,Vincent van Gogh,Artwork 869,Photography,960748,744520,Europe,,,9,,Christie's
+AID-870,2019,Vincent van Gogh,Artwork 870,Sculpture,866396,161636,North America,2023.0,,6,17.0,Sotheby's
+AID-871,2019,Claude Monet,Artwork 871,Painting,697797,157484,Asia,,,2,46.0,Christie's
+AID-872,2012,Pablo Picasso,Artwork 872,Drawing,213944,97526,Middle East,2019.0,670246.0,10,,Phillips
+AID-873,2010,Georgia O'Keeffe,Artwork 873,Painting,997382,55001,Europe,,652911.0,7,,Christie's
+AID-874,2014,Vincent van Gogh,Artwork 874,Photography,648294,848081,South America,,1695124.0,9,140.0,Christie's
+AID-875,2018,Claude Monet,Artwork 875,Sculpture,241440,196029,Middle East,,,6,143.0,Sotheby's
+AID-876,2010,Vincent van Gogh,Artwork 876,Drawing,733342,432733,Europe,,411072.0,3,46.0,Sotheby's
+AID-877,2012,Georgia O'Keeffe,Artwork 877,Sculpture,317727,672516,North America,2024.0,,7,40.0,Phillips
+AID-878,2022,Georgia O'Keeffe,Artwork 878,Photography,829824,944568,North America,,1351708.0,5,,Christie's
+AID-879,2022,Frida Kahlo,Artwork 879,Photography,12461,553999,Middle East,,966010.0,1,,Phillips
+AID-880,2013,Pablo Picasso,Artwork 880,Painting,629411,558394,Middle East,,,3,,Phillips
+AID-881,2010,Frida Kahlo,Artwork 881,Drawing,801948,855890,Asia,,,5,,Sotheby's
+AID-882,2010,Claude Monet,Artwork 882,Painting,477501,938093,Europe,,1460781.0,7,,Christie's
+AID-883,2017,Vincent van Gogh,Artwork 883,Photography,153586,486488,Middle East,2021.0,,3,,Sotheby's
+AID-884,2011,Claude Monet,Artwork 884,Sculpture,388395,396573,Asia,,,6,72.0,Phillips
+AID-885,2021,Georgia O'Keeffe,Artwork 885,Painting,499178,221583,Asia,,,5,,Phillips
+AID-886,2017,Frida Kahlo,Artwork 886,Painting,958772,367898,Middle East,,,1,47.0,Sotheby's
+AID-887,2016,Frida Kahlo,Artwork 887,Sculpture,236496,142286,North America,2024.0,1092736.0,10,-22.0,Sotheby's
+AID-888,2019,Frida Kahlo,Artwork 888,Painting,697148,231189,Europe,,,6,-28.999999999999996,Sotheby's
+AID-889,2019,Claude Monet,Artwork 889,Sculpture,736109,130479,Europe,,,8,,Sotheby's
+AID-890,2011,Georgia O'Keeffe,Artwork 890,Drawing,721409,424343,North America,2016.0,1669537.0,1,,Sotheby's
+AID-891,2015,Vincent van Gogh,Artwork 891,Sculpture,853925,140213,Middle East,,,2,,Phillips
+AID-892,2015,Vincent van Gogh,Artwork 892,Drawing,565315,557172,Europe,,,4,,Sotheby's
+AID-893,2012,Claude Monet,Artwork 893,Sculpture,884979,268852,Middle East,,306694.0,2,127.0,Christie's
+AID-894,2020,Frida Kahlo,Artwork 894,Photography,178921,808807,Middle East,2019.0,1471433.0,9,,Phillips
+AID-895,2011,Pablo Picasso,Artwork 895,Photography,891559,543376,Asia,,,10,,Phillips
+AID-896,2021,Claude Monet,Artwork 896,Drawing,678218,323759,North America,2020.0,506389.0,8,,Christie's
+AID-897,2010,Claude Monet,Artwork 897,Drawing,744522,376282,Middle East,2016.0,,8,,Christie's
+AID-898,2015,Georgia O'Keeffe,Artwork 898,Photography,608291,704406,South America,,,4,,Phillips
+AID-899,2021,Vincent van Gogh,Artwork 899,Drawing,712755,276158,North America,,,5,,Sotheby's
+AID-900,2014,Claude Monet,Artwork 900,Sculpture,569046,723785,Europe,,,4,-12.0,Phillips
+AID-901,2020,Claude Monet,Artwork 901,Sculpture,321456,400489,Asia,2018.0,,9,,Phillips
+AID-902,2018,Frida Kahlo,Artwork 902,Photography,335814,706495,Europe,,1075560.0,2,,Christie's
+AID-903,2010,Frida Kahlo,Artwork 903,Painting,87279,368986,Europe,,,8,,Phillips
+AID-904,2016,Pablo Picasso,Artwork 904,Sculpture,20434,494238,North America,,,2,,Sotheby's
+AID-905,2014,Georgia O'Keeffe,Artwork 905,Drawing,724407,82077,Europe,2024.0,,1,-41.0,Christie's
+AID-906,2014,Pablo Picasso,Artwork 906,Painting,445991,143784,Middle East,,75614.0,10,,Phillips
+AID-907,2011,Frida Kahlo,Artwork 907,Painting,342913,209776,Europe,2023.0,,3,,Phillips
+AID-908,2020,Vincent van Gogh,Artwork 908,Sculpture,775042,319018,Asia,,,9,49.0,Sotheby's
+AID-909,2012,Frida Kahlo,Artwork 909,Sculpture,333821,73087,Asia,,,3,,Phillips
+AID-910,2016,Georgia O'Keeffe,Artwork 910,Painting,88555,802729,South America,,,9,,Phillips
+AID-911,2015,Frida Kahlo,Artwork 911,Painting,657667,768629,Asia,,946066.0,7,,Phillips
+AID-912,2021,Georgia O'Keeffe,Artwork 912,Photography,746280,817560,Europe,,872839.0,10,145.0,Phillips
+AID-913,2011,Georgia O'Keeffe,Artwork 913,Drawing,768799,596656,Asia,,,1,,Sotheby's
+AID-914,2015,Georgia O'Keeffe,Artwork 914,Photography,181806,747859,North America,2022.0,1116623.0,10,,Phillips
+AID-915,2011,Georgia O'Keeffe,Artwork 915,Sculpture,893097,345102,Asia,2021.0,,5,96.0,Phillips
+AID-916,2011,Georgia O'Keeffe,Artwork 916,Photography,486719,299064,Middle East,2018.0,80246.0,9,-16.0,Phillips
+AID-917,2011,Vincent van Gogh,Artwork 917,Photography,438819,255514,North America,,1293531.0,3,,Christie's
+AID-918,2020,Pablo Picasso,Artwork 918,Photography,474924,932660,South America,,,9,76.0,Sotheby's
+AID-919,2012,Claude Monet,Artwork 919,Photography,73803,146180,Middle East,,1196397.0,5,81.0,Christie's
+AID-920,2011,Pablo Picasso,Artwork 920,Drawing,437548,924304,Europe,2018.0,,9,-50.0,Christie's
+AID-921,2013,Georgia O'Keeffe,Artwork 921,Drawing,883135,788192,Europe,2023.0,,10,137.0,Sotheby's
+AID-922,2018,Vincent van Gogh,Artwork 922,Painting,812744,439928,Europe,,356140.0,6,,Christie's
+AID-923,2015,Frida Kahlo,Artwork 923,Sculpture,753736,924114,Middle East,,,9,106.0,Christie's
+AID-924,2010,Vincent van Gogh,Artwork 924,Photography,482742,605891,Middle East,,1506193.0,7,,Christie's
+AID-925,2017,Georgia O'Keeffe,Artwork 925,Painting,704539,37872,Middle East,,697823.0,7,,Sotheby's
+AID-926,2021,Vincent van Gogh,Artwork 926,Painting,731802,276872,North America,,,8,86.0,Phillips
+AID-927,2016,Vincent van Gogh,Artwork 927,Painting,250404,361246,North America,2015.0,829555.0,7,28.999999999999996,Sotheby's
+AID-928,2019,Georgia O'Keeffe,Artwork 928,Drawing,647249,492535,Europe,2017.0,,9,,Sotheby's
+AID-929,2012,Vincent van Gogh,Artwork 929,Photography,307523,388193,Asia,,,9,,Sotheby's
+AID-930,2010,Claude Monet,Artwork 930,Photography,22297,811015,Europe,,,6,-26.0,Christie's
+AID-931,2014,Claude Monet,Artwork 931,Sculpture,793443,89774,South America,2024.0,,7,,Phillips
+AID-932,2022,Vincent van Gogh,Artwork 932,Photography,514346,928767,North America,,1103982.0,2,,Sotheby's
+AID-933,2013,Frida Kahlo,Artwork 933,Photography,125234,392518,Middle East,,526394.0,9,140.0,Sotheby's
+AID-934,2019,Georgia O'Keeffe,Artwork 934,Painting,573302,202522,North America,,530112.0,1,11.0,Phillips
+AID-935,2017,Claude Monet,Artwork 935,Sculpture,772454,224357,Middle East,,,1,,Phillips
+AID-936,2010,Frida Kahlo,Artwork 936,Photography,934242,416672,South America,,559633.0,3,0.0,Phillips
+AID-937,2019,Vincent van Gogh,Artwork 937,Drawing,885765,881550,South America,2020.0,1808977.0,6,,Christie's
+AID-938,2010,Frida Kahlo,Artwork 938,Photography,183570,69942,North America,,,5,,Phillips
+AID-939,2021,Pablo Picasso,Artwork 939,Painting,788152,541977,Middle East,,,2,139.0,Christie's
+AID-940,2013,Claude Monet,Artwork 940,Drawing,802552,561564,South America,2016.0,915721.0,9,,Sotheby's
+AID-941,2017,Vincent van Gogh,Artwork 941,Painting,514733,513565,Europe,,,10,92.0,Christie's
+AID-942,2014,Georgia O'Keeffe,Artwork 942,Photography,931271,526552,Europe,2021.0,,4,30.0,Phillips
+AID-943,2011,Vincent van Gogh,Artwork 943,Drawing,289996,630256,Middle East,2021.0,1180933.0,4,,Christie's
+AID-944,2015,Georgia O'Keeffe,Artwork 944,Sculpture,346383,417089,North America,,322712.0,5,,Phillips
+AID-945,2014,Vincent van Gogh,Artwork 945,Sculpture,399145,803482,South America,2019.0,,8,34.0,Christie's
+AID-946,2011,Frida Kahlo,Artwork 946,Drawing,737847,594504,North America,,170576.0,10,,Sotheby's
+AID-947,2022,Frida Kahlo,Artwork 947,Drawing,516603,743804,Europe,2024.0,,4,23.0,Christie's
+AID-948,2020,Frida Kahlo,Artwork 948,Painting,620863,350184,South America,,,5,87.0,Sotheby's
+AID-949,2020,Pablo Picasso,Artwork 949,Drawing,512365,549932,North America,2024.0,,4,,Phillips
+AID-950,2020,Georgia O'Keeffe,Artwork 950,Painting,624328,66021,Asia,2018.0,,6,112.99999999999999,Sotheby's
+AID-951,2012,Frida Kahlo,Artwork 951,Photography,153510,696485,Middle East,,,3,,Phillips
+AID-952,2018,Pablo Picasso,Artwork 952,Painting,184587,464115,Middle East,,,8,,Phillips
+AID-953,2016,Georgia O'Keeffe,Artwork 953,Drawing,535032,46291,Asia,2024.0,,6,78.0,Sotheby's
+AID-954,2016,Vincent van Gogh,Artwork 954,Drawing,744180,432276,Europe,2021.0,1977859.0,10,-3.0,Sotheby's
+AID-955,2020,Pablo Picasso,Artwork 955,Photography,440633,398754,South America,,1013750.0,5,,Christie's
+AID-956,2015,Claude Monet,Artwork 956,Drawing,929573,307664,Middle East,2017.0,,2,-31.0,Christie's
+AID-957,2017,Pablo Picasso,Artwork 957,Drawing,833791,29675,Asia,,1864165.0,10,-19.0,Sotheby's
+AID-958,2013,Pablo Picasso,Artwork 958,Sculpture,680159,677647,Asia,,,10,149.0,Sotheby's
+AID-959,2017,Georgia O'Keeffe,Artwork 959,Sculpture,365890,266318,Europe,,1928036.0,7,-20.0,Sotheby's
+AID-960,2013,Vincent van Gogh,Artwork 960,Photography,754122,96268,Europe,,,2,137.0,Sotheby's
+AID-961,2017,Claude Monet,Artwork 961,Painting,650194,301142,North America,2020.0,39680.0,1,,Phillips
+AID-962,2018,Frida Kahlo,Artwork 962,Sculpture,206260,712672,Middle East,,374446.0,7,125.0,Sotheby's
+AID-963,2012,Frida Kahlo,Artwork 963,Painting,750219,933616,North America,2020.0,,5,17.0,Sotheby's
+AID-964,2012,Pablo Picasso,Artwork 964,Drawing,782881,633698,Asia,,,1,26.0,Sotheby's
+AID-965,2020,Georgia O'Keeffe,Artwork 965,Sculpture,768034,341369,South America,,1753067.0,4,85.0,Sotheby's
+AID-966,2022,Georgia O'Keeffe,Artwork 966,Photography,536885,835246,South America,,,4,65.0,Phillips
+AID-967,2011,Frida Kahlo,Artwork 967,Photography,838525,351235,Europe,,,10,-12.0,Christie's
+AID-968,2022,Claude Monet,Artwork 968,Photography,435442,316863,South America,,833271.0,7,,Christie's
+AID-969,2019,Vincent van Gogh,Artwork 969,Sculpture,208199,133887,South America,,,9,,Christie's
+AID-970,2012,Claude Monet,Artwork 970,Painting,381794,300063,South America,,,2,83.0,Christie's
+AID-971,2012,Vincent van Gogh,Artwork 971,Drawing,489585,339299,Asia,,,1,-25.0,Christie's
+AID-972,2014,Frida Kahlo,Artwork 972,Painting,737722,337713,South America,,,2,11.0,Phillips
+AID-973,2014,Vincent van Gogh,Artwork 973,Painting,686777,831760,South America,,109244.0,7,-15.0,Christie's
+AID-974,2011,Georgia O'Keeffe,Artwork 974,Drawing,941197,205554,South America,2021.0,,10,,Phillips
+AID-975,2021,Pablo Picasso,Artwork 975,Drawing,477890,815050,North America,2022.0,,6,62.0,Phillips
+AID-976,2019,Pablo Picasso,Artwork 976,Sculpture,388100,562963,Asia,,,4,51.0,Christie's
+AID-977,2022,Frida Kahlo,Artwork 977,Sculpture,120598,499010,Europe,,,1,,Christie's
+AID-978,2015,Georgia O'Keeffe,Artwork 978,Sculpture,255100,809351,North America,,1756552.0,1,9.0,Christie's
+AID-979,2014,Claude Monet,Artwork 979,Sculpture,787877,794605,Middle East,2023.0,,5,,Sotheby's
+AID-980,2015,Georgia O'Keeffe,Artwork 980,Sculpture,713521,375513,Asia,,,1,,Phillips
+AID-981,2010,Pablo Picasso,Artwork 981,Drawing,781676,816832,Asia,,1331696.0,7,-30.0,Christie's
+AID-982,2014,Pablo Picasso,Artwork 982,Painting,138241,185517,Middle East,,,1,,Sotheby's
+AID-983,2018,Georgia O'Keeffe,Artwork 983,Sculpture,744452,74305,Middle East,,,1,60.0,Phillips
+AID-984,2021,Georgia O'Keeffe,Artwork 984,Sculpture,158124,696924,Middle East,,1541439.0,2,-25.0,Sotheby's
+AID-985,2019,Pablo Picasso,Artwork 985,Painting,470065,443030,Europe,2019.0,1831042.0,10,,Sotheby's
+AID-986,2011,Claude Monet,Artwork 986,Sculpture,209923,476963,South America,,,3,,Christie's
+AID-987,2010,Frida Kahlo,Artwork 987,Painting,13036,617079,Asia,2015.0,,1,40.0,Phillips
+AID-988,2019,Frida Kahlo,Artwork 988,Painting,561066,163034,South America,,,9,,Sotheby's
+AID-989,2022,Georgia O'Keeffe,Artwork 989,Drawing,950238,482108,South America,,408008.0,10,,Phillips
+AID-990,2020,Frida Kahlo,Artwork 990,Photography,159245,598821,Middle East,2022.0,,8,60.0,Christie's
+AID-991,2018,Pablo Picasso,Artwork 991,Drawing,690763,191256,Europe,,,5,,Phillips
+AID-992,2019,Pablo Picasso,Artwork 992,Photography,988825,480128,North America,2020.0,,2,,Sotheby's
+AID-993,2018,Georgia O'Keeffe,Artwork 993,Photography,207747,894023,Europe,,,5,,Sotheby's
+AID-994,2018,Georgia O'Keeffe,Artwork 994,Photography,928848,669938,South America,,,6,92.0,Phillips
+AID-995,2015,Georgia O'Keeffe,Artwork 995,Sculpture,548088,659348,Europe,2023.0,,1,,Sotheby's
+AID-996,2017,Claude Monet,Artwork 996,Drawing,292516,677984,Middle East,,184001.0,4,32.0,Sotheby's
+AID-997,2020,Frida Kahlo,Artwork 997,Photography,328660,829626,North America,2021.0,,9,84.0,Sotheby's
+AID-998,2022,Georgia O'Keeffe,Artwork 998,Painting,811970,376047,Middle East,,,2,68.0,Christie's
+AID-999,2010,Vincent van Gogh,Artwork 999,Sculpture,855350,397605,North America,2021.0,98780.0,5,,Christie's
+AID-1000,2019,Vincent van Gogh,Artwork 1000,Drawing,937477,365447,South America,,,1,,Sotheby's
